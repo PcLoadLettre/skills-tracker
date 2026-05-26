@@ -1,5 +1,86 @@
 [
   {
+    "description": "Exercise: Publish Docker Images",
+    "id": "tjfv02/skills-publish-docker-images",
+    "language": "JavaScript",
+    "name": "tjfv02/skills-publish-docker-images",
+    "stars": 0,
+    "updated_at": "2026-05-26T02:15:19Z",
+    "url": "https://github.com/tjfv02/skills-publish-docker-images"
+  },
+  {
+    "description": "\ud83d\udcf1 Build production-ready Expo React Native apps with essential features like in-app purchases, ads, and multi-language s",
+    "id": "mrshrey007/skills",
+    "language": "\u2014",
+    "name": "mrshrey007/skills",
+    "stars": 0,
+    "updated_at": "2026-05-26T02:15:16Z",
+    "url": "https://github.com/mrshrey007/skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-05-26T02:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "just skills....",
+    "id": "BetterZflyee/ai-ggbond-skills",
+    "language": "TypeScript",
+    "name": "BetterZflyee/ai-ggbond-skills",
+    "stars": 1,
+    "updated_at": "2026-05-26T02:15:09Z",
+    "url": "https://github.com/BetterZflyee/ai-ggbond-skills"
+  },
+  {
+    "description": "",
+    "id": "lumia1998/koishi-skills",
+    "language": "Python",
+    "name": "lumia1998/koishi-skills",
+    "stars": 2,
+    "updated_at": "2026-05-26T02:15:09Z",
+    "url": "https://github.com/lumia1998/koishi-skills"
+  },
+  {
+    "description": "",
+    "id": "Bytsuki0/SourceSkillsMiner",
+    "language": "Python",
+    "name": "Bytsuki0/SourceSkillsMiner",
+    "stars": 0,
+    "updated_at": "2026-05-26T02:15:08Z",
+    "url": "https://github.com/Bytsuki0/SourceSkillsMiner"
+  },
+  {
+    "description": "\ud83d\udee0\ufe0f Master 27 AI Agent Skills for effective semantic code search with GrepAI, enhancing installation, configuration, and ",
+    "id": "NNIIKKKKII/grepai-skills",
+    "language": "\u2014",
+    "name": "NNIIKKKKII/grepai-skills",
+    "stars": 1,
+    "updated_at": "2026-05-26T02:14:59Z",
+    "url": "https://github.com/NNIIKKKKII/grepai-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 0,
+    "updated_at": "2026-05-26T02:14:53Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your AI problem-solving with 39 mental models that improve critical thinking, decision making, and strategic a",
+    "id": "babypochi06/cc-thinking-skills",
+    "language": "JavaScript",
+    "name": "babypochi06/cc-thinking-skills",
+    "stars": 1,
+    "updated_at": "2026-05-26T02:14:50Z",
+    "url": "https://github.com/babypochi06/cc-thinking-skills"
+  },
+  {
     "description": "",
     "id": "reddb-io/red-skills",
     "language": "TypeScript",
@@ -113,7 +194,7 @@
     "language": "\u2014",
     "name": "ahmed4050/1my-embedded-skills",
     "stars": 0,
-    "updated_at": "2026-05-26T02:13:36Z",
+    "updated_at": "2026-05-26T02:15:25Z",
     "url": "https://github.com/ahmed4050/1my-embedded-skills"
   },
   {
@@ -122,7 +203,7 @@
     "language": "C#",
     "name": "estefa-932014/skills-secure-repository-supply-chain",
     "stars": 0,
-    "updated_at": "2026-05-26T02:14:43Z",
+    "updated_at": "2026-05-26T02:15:26Z",
     "url": "https://github.com/estefa-932014/skills-secure-repository-supply-chain"
   },
   {
@@ -178,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-05-26T02:12:51Z",
     "url": "https://github.com/liangmiQwQ/skills"
-  },
-  {
-    "description": "just skills....",
-    "id": "BetterZflyee/ai-ggbond-skills",
-    "language": "TypeScript",
-    "name": "BetterZflyee/ai-ggbond-skills",
-    "stars": 1,
-    "updated_at": "2026-05-26T02:12:50Z",
-    "url": "https://github.com/BetterZflyee/ai-ggbond-skills"
   },
   {
     "description": "\ud83d\udee0\ufe0f Master Java programming with modular skills from Effective Java. Each skill offers concise guidance for best practice",
@@ -527,7 +599,7 @@
     "language": "Python",
     "name": "jeremylongshore/claude-code-plugins-plus-skills",
     "stars": 2240,
-    "updated_at": "2026-05-26T02:09:09Z",
+    "updated_at": "2026-05-26T02:15:26Z",
     "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills"
   },
   {
@@ -826,77 +898,5 @@
     "stars": 0,
     "updated_at": "2026-05-26T02:05:51Z",
     "url": "https://github.com/Melissa611/skills-code-with-codespaces"
-  },
-  {
-    "description": "",
-    "id": "wangcb8i8i/agent-skills",
-    "language": "\u2014",
-    "name": "wangcb8i8i/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-05-26T02:05:43Z",
-    "url": "https://github.com/wangcb8i8i/agent-skills"
-  },
-  {
-    "description": "\u67e5\u627e GitHub \u4e0a\u5173\u4e8e iOS\u3001iPadOS\u3001macOS\u3001watchOS \u5f00\u53d1\u6d41\u884c\u7684 skills",
-    "id": "claude27fs/apple-dev-skills",
-    "language": "\u2014",
-    "name": "claude27fs/apple-dev-skills",
-    "stars": 1,
-    "updated_at": "2026-05-26T02:05:12Z",
-    "url": "https://github.com/claude27fs/apple-dev-skills"
-  },
-  {
-    "description": "\ud83d\udcdd Enhance your academic research workflow with skills for writing literature reviews and generating slides from papers.",
-    "id": "Ronitnair/research-skills",
-    "language": "TypeScript",
-    "name": "Ronitnair/research-skills",
-    "stars": 1,
-    "updated_at": "2026-05-26T02:05:08Z",
-    "url": "https://github.com/Ronitnair/research-skills"
-  },
-  {
-    "description": "Official agent skills for the Runtype platform",
-    "id": "runtypelabs/skills",
-    "language": "JavaScript",
-    "name": "runtypelabs/skills",
-    "stars": 0,
-    "updated_at": "2026-05-26T02:04:43Z",
-    "url": "https://github.com/runtypelabs/skills"
-  },
-  {
-    "description": "Exercise: Build applications with GitHub Copilot agent mode",
-    "id": "takashi-miyoshi-pb/skills-build-applications-w-copilot-agent-mode",
-    "language": "Shell",
-    "name": "takashi-miyoshi-pb/skills-build-applications-w-copilot-agent-mode",
-    "stars": 0,
-    "updated_at": "2026-05-26T02:12:54Z",
-    "url": "https://github.com/takashi-miyoshi-pb/skills-build-applications-w-copilot-agent-mode"
-  },
-  {
-    "description": "\ud83e\udd16 Create and enhance Agent Skills with this guide, drawing from official sources and community insights for effective pr",
-    "id": "kaydenplayZ/agent-skills-guide",
-    "language": "\u2014",
-    "name": "kaydenplayZ/agent-skills-guide",
-    "stars": 0,
-    "updated_at": "2026-05-26T02:04:17Z",
-    "url": "https://github.com/kaydenplayZ/agent-skills-guide"
-  },
-  {
-    "description": "Skill repository for FIGLAB team",
-    "id": "figlabhq/agent-skills",
-    "language": "\u2014",
-    "name": "figlabhq/agent-skills",
-    "stars": 4,
-    "updated_at": "2026-05-26T02:04:15Z",
-    "url": "https://github.com/figlabhq/agent-skills"
-  },
-  {
-    "description": "",
-    "id": "Bisgates/my_skills",
-    "language": "HTML",
-    "name": "Bisgates/my_skills",
-    "stars": 0,
-    "updated_at": "2026-05-26T02:03:59Z",
-    "url": "https://github.com/Bisgates/my_skills"
   }
 ]
