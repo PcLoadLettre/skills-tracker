@@ -1,5 +1,86 @@
 [
   {
+    "description": "",
+    "id": "mancio/mySkills",
+    "language": "\u2014",
+    "name": "mancio/mySkills",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:01:38Z",
+    "url": "https://github.com/mancio/mySkills"
+  },
+  {
+    "description": "",
+    "id": "danizh910/Skillsbattle",
+    "language": "TypeScript",
+    "name": "danizh910/Skillsbattle",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:01:32Z",
+    "url": "https://github.com/danizh910/Skillsbattle"
+  },
+  {
+    "description": "Custom SKILL.md files for Claude Code, Codex, and friends",
+    "id": "damsleth/SKILLS",
+    "language": "Shell",
+    "name": "damsleth/SKILLS",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:01:06Z",
+    "url": "https://github.com/damsleth/SKILLS"
+  },
+  {
+    "description": " Skill helps AI learn about the Testing",
+    "id": "boost-skills/testing",
+    "language": "\u2014",
+    "name": "boost-skills/testing",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:00:56Z",
+    "url": "https://github.com/boost-skills/testing"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-05-27T14:00:56Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Lightweight standards intelligence skill pack for PI-agent workflows.",
+    "id": "jlcbk/standards-intelligence-skills",
+    "language": "Python",
+    "name": "jlcbk/standards-intelligence-skills",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:00:52Z",
+    "url": "https://github.com/jlcbk/standards-intelligence-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 1,
+    "updated_at": "2026-05-27T14:00:51Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Hermes skills directory with skill definitions for the Hermes agent framework",
+    "id": "btxbtwn/hermes-skills",
+    "language": "Python",
+    "name": "btxbtwn/hermes-skills",
+    "stars": 0,
+    "updated_at": "2026-05-27T14:00:42Z",
+    "url": "https://github.com/btxbtwn/hermes-skills"
+  },
+  {
+    "description": "Collection of AI Agent Code skills",
+    "id": "kogakure/skills",
+    "language": "\u2014",
+    "name": "kogakure/skills",
+    "stars": 5,
+    "updated_at": "2026-05-27T14:00:33Z",
+    "url": "https://github.com/kogakure/skills"
+  },
+  {
     "description": "Exercise: Introduction to GitHub",
     "id": "fatt-marley/skills-introduction-to-github",
     "language": "\u2014",
@@ -43,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T14:00:14Z",
     "url": "https://github.com/ChronoAIProject/ornn-skills"
-  },
-  {
-    "description": "",
-    "id": "mancio/mySkills",
-    "language": "\u2014",
-    "name": "mancio/mySkills",
-    "stars": 0,
-    "updated_at": "2026-05-27T14:00:07Z",
-    "url": "https://github.com/mancio/mySkills"
   },
   {
     "description": "",
@@ -142,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-05-27T13:58:45Z",
     "url": "https://github.com/Mark-Lester-22/skills-getting-started-with-github-copilot2"
-  },
-  {
-    "description": " Skill helps AI learn about the Testing",
-    "id": "boost-skills/testing",
-    "language": "\u2014",
-    "name": "boost-skills/testing",
-    "stars": 0,
-    "updated_at": "2026-05-27T13:58:33Z",
-    "url": "https://github.com/boost-skills/testing"
   },
   {
     "description": "Agent skills group for project execution",
@@ -810,24 +873,6 @@
     "url": "https://github.com/revsystem/claude-code-skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-05-27T13:45:59Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 1,
-    "updated_at": "2026-05-27T13:45:54Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "\u8bfb\u53d6\u6280\u80fd\u9644\u5e26\u6587\u4ef6\uff0c\u5f53\u4f60\u7684bot\u6ca1\u6709shell\u548cpython\u6267\u884c\u6743\u9650\u65f6\uff0c\u5b83\u5f88\u6709\u7528",
     "id": "senaairi/astrbot_plugin_read_skills_attachment",
     "language": "Python",
@@ -853,50 +898,5 @@
     "stars": 1,
     "updated_at": "2026-05-27T13:45:21Z",
     "url": "https://github.com/asbarron/claude-skills"
-  },
-  {
-    "description": "Community skills for Claude Code: token optimization, productivity workflows, and development best practices. All skills",
-    "id": "valorisa/Claude-Skills",
-    "language": "Shell",
-    "name": "valorisa/Claude-Skills",
-    "stars": 2,
-    "updated_at": "2026-05-27T13:45:07Z",
-    "url": "https://github.com/valorisa/Claude-Skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "FieldsElectric/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "FieldsElectric/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-05-27T13:44:47Z",
-    "url": "https://github.com/FieldsElectric/skills-introduction-to-github"
-  },
-  {
-    "description": "Eval-backed SkillHub prototype for skill variants, versioned eval sets, and skill bundle snapshots.",
-    "id": "xunx911/skills-manager",
-    "language": "Python",
-    "name": "xunx911/skills-manager",
-    "stars": 1,
-    "updated_at": "2026-05-27T13:44:32Z",
-    "url": "https://github.com/xunx911/skills-manager"
-  },
-  {
-    "description": "personal agent skills for better QoL",
-    "id": "cafe3310/public-agent-skills",
-    "language": "JavaScript",
-    "name": "cafe3310/public-agent-skills",
-    "stars": 214,
-    "updated_at": "2026-05-27T13:44:31Z",
-    "url": "https://github.com/cafe3310/public-agent-skills"
-  },
-  {
-    "description": "Exercise: Expand your team with GitHub Copilot cloud agent",
-    "id": "KevinSebastin/skills-expand-your-team-with-copilot",
-    "language": "JavaScript",
-    "name": "KevinSebastin/skills-expand-your-team-with-copilot",
-    "stars": 0,
-    "updated_at": "2026-05-27T13:44:25Z",
-    "url": "https://github.com/KevinSebastin/skills-expand-your-team-with-copilot"
   }
 ]
