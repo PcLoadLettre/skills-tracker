@@ -1,5 +1,32 @@
 [
   {
+    "description": "",
+    "id": "myceldigital/MG-Skills",
+    "language": "\u2014",
+    "name": "myceldigital/MG-Skills",
+    "stars": 0,
+    "updated_at": "2026-05-28T23:00:36Z",
+    "url": "https://github.com/myceldigital/MG-Skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-05-28T23:00:36Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 1,
+    "updated_at": "2026-05-28T23:00:33Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Auto-generated agent skills from trending security & appsec repos, by ara.so",
     "id": "Aradotso/security-skills",
     "language": "\u2014",
@@ -387,15 +414,6 @@
     "url": "https://github.com/BentoLabs-ai/skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-05-28T22:46:17Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "",
     "id": "Worldsmythe/skills",
     "language": "Python",
@@ -421,15 +439,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T22:49:19Z",
     "url": "https://github.com/blamejs/exceptd-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 1,
-    "updated_at": "2026-05-28T22:45:30Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Exercise: Introduction to CodeQL",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T22:32:38Z",
     "url": "https://github.com/ibrews/capafy-skills"
-  },
-  {
-    "description": "Extend Claude functionality with this collection of custom skills for direct installation via the Claude settings menu.",
-    "id": "roniesthetic654/my-claude-skills",
-    "language": "\u2014",
-    "name": "roniesthetic654/my-claude-skills",
-    "stars": 0,
-    "updated_at": "2026-05-28T22:32:30Z",
-    "url": "https://github.com/roniesthetic654/my-claude-skills"
   }
 ]
