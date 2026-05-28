@@ -1,5 +1,41 @@
 [
   {
+    "description": "Play multiplayer online! Download free titles and enjoy fun challenges with friends.",
+    "id": "heroicplay/champion-skillset",
+    "language": "HTML",
+    "name": "heroicplay/champion-skillset",
+    "stars": 0,
+    "updated_at": "2026-05-28T01:30:36Z",
+    "url": "https://github.com/heroicplay/champion-skillset"
+  },
+  {
+    "description": "",
+    "id": "haits812/skills",
+    "language": "\u2014",
+    "name": "haits812/skills",
+    "stars": 0,
+    "updated_at": "2026-05-28T01:30:34Z",
+    "url": "https://github.com/haits812/skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-05-28T01:30:33Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 1,
+    "updated_at": "2026-05-28T01:30:29Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Exercise: Introduction to GitHub",
     "id": "javiertob56-boop/skills-introduction-to-github",
     "language": "\u2014",
@@ -34,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T01:30:16Z",
     "url": "https://github.com/rangrik/Skills"
-  },
-  {
-    "description": "Play multiplayer online! Download free titles and enjoy fun challenges with friends.",
-    "id": "heroicplay/champion-skillset",
-    "language": "\u2014",
-    "name": "heroicplay/champion-skillset",
-    "stars": 0,
-    "updated_at": "2026-05-28T01:30:14Z",
-    "url": "https://github.com/heroicplay/champion-skillset"
   },
   {
     "description": "AI instruction files in SKILL.md format \u2014 indexed by Skills.sh and SkillsMP",
@@ -185,7 +212,7 @@
     "language": "\u2014",
     "name": "QMS85/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-05-28T01:27:05Z",
+    "updated_at": "2026-05-28T01:30:35Z",
     "url": "https://github.com/QMS85/skills-introduction-to-github"
   },
   {
@@ -502,24 +529,6 @@
     "stars": 0,
     "updated_at": "2026-05-28T01:20:31Z",
     "url": "https://github.com/blamejs/exceptd-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 1,
-    "updated_at": "2026-05-28T01:15:36Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-05-28T01:15:36Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "Claude Code skills, hooks, and scripts for persistent memory across compacts, cross-session messaging, and session searc",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-05-28T01:02:19Z",
     "url": "https://github.com/aryann003/SkillSync"
-  },
-  {
-    "description": "Skills dynamic page",
-    "id": "terri-spec/skills",
-    "language": "HTML",
-    "name": "terri-spec/skills",
-    "stars": 0,
-    "updated_at": "2026-05-28T01:02:15Z",
-    "url": "https://github.com/terri-spec/skills"
   }
 ]
