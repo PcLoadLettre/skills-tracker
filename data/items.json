@@ -1,12 +1,12 @@
 [
   {
     "description": "Exercise: Build applications with GitHub Copilot agent mode",
-    "id": "Pinninti-Sai-Sukumar/skills-build-applications-w-copilot-agent-mode",
-    "language": "\u2014",
-    "name": "Pinninti-Sai-Sukumar/skills-build-applications-w-copilot-agent-mode",
+    "id": "hlindenstruth/skills-build-applications-w-copilot-agent-mode",
+    "language": "Shell",
+    "name": "hlindenstruth/skills-build-applications-w-copilot-agent-mode",
     "stars": 0,
-    "updated_at": "2026-05-29T14:30:33Z",
-    "url": "https://github.com/Pinninti-Sai-Sukumar/skills-build-applications-w-copilot-agent-mode"
+    "updated_at": "2026-05-29T14:32:37Z",
+    "url": "https://github.com/hlindenstruth/skills-build-applications-w-copilot-agent-mode"
   },
   {
     "description": "jacard's skillshub",
@@ -14,8 +14,107 @@
     "language": "Python",
     "name": "jacardl/skillshub",
     "stars": 0,
-    "updated_at": "2026-05-29T14:30:19Z",
+    "updated_at": "2026-05-29T14:32:32Z",
     "url": "https://github.com/jacardl/skillshub"
+  },
+  {
+    "description": "Excel dashboard analyzing global data skills demand, salary premium, growth trends and market stability.",
+    "id": "Shivam-data-analytics/excel-global-data-skills-market-intelligence-dashboard",
+    "language": "\u2014",
+    "name": "Shivam-data-analytics/excel-global-data-skills-market-intelligence-dashboard",
+    "stars": 2,
+    "updated_at": "2026-05-29T14:31:58Z",
+    "url": "https://github.com/Shivam-data-analytics/excel-global-data-skills-market-intelligence-dashboard"
+  },
+  {
+    "description": "Server-side Fabric mod adding 16 skills, stats, pets, and collections to vanilla Minecraft 1.21.1. No client mod require",
+    "id": "f0d010c/PeakSkills",
+    "language": "Java",
+    "name": "f0d010c/PeakSkills",
+    "stars": 0,
+    "updated_at": "2026-05-29T14:31:50Z",
+    "url": "https://github.com/f0d010c/PeakSkills"
+  },
+  {
+    "description": "",
+    "id": "scottwater/skills",
+    "language": "Python",
+    "name": "scottwater/skills",
+    "stars": 0,
+    "updated_at": "2026-05-29T14:31:42Z",
+    "url": "https://github.com/scottwater/skills"
+  },
+  {
+    "description": "AI agent skills that shift-left accessibility into planning and development phases. Works with any MCP-compatible AI cod",
+    "id": "akshatagupta1801/a11y-shift-left-kiro-skills",
+    "language": "\u2014",
+    "name": "akshatagupta1801/a11y-shift-left-kiro-skills",
+    "stars": 0,
+    "updated_at": "2026-05-29T14:31:36Z",
+    "url": "https://github.com/akshatagupta1801/a11y-shift-left-kiro-skills"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
+    "id": "anapoli87/skills-introduction-to-git",
+    "language": "Shell",
+    "name": "anapoli87/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-05-29T14:31:17Z",
+    "url": "https://github.com/anapoli87/skills-introduction-to-git"
+  },
+  {
+    "description": "",
+    "id": "reddb-io/red-skills",
+    "language": "TypeScript",
+    "name": "reddb-io/red-skills",
+    "stars": 0,
+    "updated_at": "2026-05-29T14:31:09Z",
+    "url": "https://github.com/reddb-io/red-skills"
+  },
+  {
+    "description": "",
+    "id": "chengbenchao/hermes-skills-store",
+    "language": "JavaScript",
+    "name": "chengbenchao/hermes-skills-store",
+    "stars": 0,
+    "updated_at": "2026-05-29T14:30:48Z",
+    "url": "https://github.com/chengbenchao/hermes-skills-store"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-05-29T14:30:46Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 1,
+    "updated_at": "2026-05-29T14:30:41Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "",
+    "id": "mdhb2/lean-coding-skills",
+    "language": "Python",
+    "name": "mdhb2/lean-coding-skills",
+    "stars": 0,
+    "updated_at": "2026-05-29T14:30:40Z",
+    "url": "https://github.com/mdhb2/lean-coding-skills"
+  },
+  {
+    "description": "Exercise: Build applications with GitHub Copilot agent mode",
+    "id": "Pinninti-Sai-Sukumar/skills-build-applications-w-copilot-agent-mode",
+    "language": "Shell",
+    "name": "Pinninti-Sai-Sukumar/skills-build-applications-w-copilot-agent-mode",
+    "stars": 0,
+    "updated_at": "2026-05-29T14:30:33Z",
+    "url": "https://github.com/Pinninti-Sai-Sukumar/skills-build-applications-w-copilot-agent-mode"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -36,6 +135,15 @@
     "url": "https://github.com/Livsy90/ios-performance-skills"
   },
   {
+    "description": "AI instruction files in SKILL.md format \u2014 indexed by Skills.sh and SkillsMP",
+    "id": "tomevault-io/skills-registry",
+    "language": "\u2014",
+    "name": "tomevault-io/skills-registry",
+    "stars": 0,
+    "updated_at": "2026-05-29T14:30:04Z",
+    "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
     "description": "SaaS-style tutoring booking platform built with Laravel",
     "id": "athiyahansari/SkillSwap",
     "language": "Blade",
@@ -54,15 +162,6 @@
     "url": "https://github.com/gentilijuanmanuel/writing-skills"
   },
   {
-    "description": "Excel dashboard analyzing global data skills demand, salary premium, growth trends and market stability.",
-    "id": "Shivam-data-analytics/excel-global-data-skills-market-intelligence-dashboard",
-    "language": "\u2014",
-    "name": "Shivam-data-analytics/excel-global-data-skills-market-intelligence-dashboard",
-    "stars": 2,
-    "updated_at": "2026-05-29T14:29:27Z",
-    "url": "https://github.com/Shivam-data-analytics/excel-global-data-skills-market-intelligence-dashboard"
-  },
-  {
     "description": "Exercise: Get started using GitHub Copilot",
     "id": "rubengomes-arentia/skills-getting-started-with-github-copilot",
     "language": "Python",
@@ -74,7 +173,7 @@
   {
     "description": "Exercise: Code with Codespaces",
     "id": "EmPiG/skills-code-with-codespaces",
-    "language": "\u2014",
+    "language": "Python",
     "name": "EmPiG/skills-code-with-codespaces",
     "stars": 0,
     "updated_at": "2026-05-29T14:29:02Z",
@@ -88,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-05-29T14:28:58Z",
     "url": "https://github.com/klilax/skills-introduction-to-github"
-  },
-  {
-    "description": "",
-    "id": "psbds/ai-dlc-nodejs-skills",
-    "language": "\u2014",
-    "name": "psbds/ai-dlc-nodejs-skills",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:28:56Z",
-    "url": "https://github.com/psbds/ai-dlc-nodejs-skills"
   },
   {
     "description": "Your Ultimate Claude Skills Library & Hub 2026 \u2013 Integrate & Organize AI Workflows",
@@ -122,7 +212,7 @@
     "language": "\u2014",
     "name": "ksulikow/skills-communicate-using-markdown",
     "stars": 0,
-    "updated_at": "2026-05-29T14:28:29Z",
+    "updated_at": "2026-05-29T14:32:37Z",
     "url": "https://github.com/ksulikow/skills-communicate-using-markdown"
   },
   {
@@ -133,6 +223,15 @@
     "stars": 0,
     "updated_at": "2026-05-29T14:28:26Z",
     "url": "https://github.com/Deorya/codex-skills"
+  },
+  {
+    "description": "",
+    "id": "sysiphysus/cheng-skills",
+    "language": "Python",
+    "name": "sysiphysus/cheng-skills",
+    "stars": 0,
+    "updated_at": "2026-05-29T14:28:23Z",
+    "url": "https://github.com/sysiphysus/cheng-skills"
   },
   {
     "description": "\u751f\u547d\u6d8c\u73b0\u6280\u80fd\u5e93",
@@ -540,15 +639,6 @@
     "url": "https://github.com/batterfried-philosophy172/Agent-Startup-Skills"
   },
   {
-    "description": "",
-    "id": "reddb-io/red-skills",
-    "language": "TypeScript",
-    "name": "reddb-io/red-skills",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:23:59Z",
-    "url": "https://github.com/reddb-io/red-skills"
-  },
-  {
     "description": "Utility tool to manage AI skills stored in a repo",
     "id": "greendwin/repo-skills",
     "language": "Python",
@@ -808,95 +898,5 @@
     "stars": 0,
     "updated_at": "2026-05-29T14:21:19Z",
     "url": "https://github.com/Napster/omniagent-api-skills"
-  },
-  {
-    "description": "agentic skills",
-    "id": "zappika/skills",
-    "language": "Shell",
-    "name": "zappika/skills",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:21:18Z",
-    "url": "https://github.com/zappika/skills"
-  },
-  {
-    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfa",
-    "id": "aeopress/andrej-karpathy-skills.TW",
-    "language": "Python",
-    "name": "aeopress/andrej-karpathy-skills.TW",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:21:08Z",
-    "url": "https://github.com/aeopress/andrej-karpathy-skills.TW"
-  },
-  {
-    "description": "Connect AI agents to over 340 SaaS platforms with this curated collection of API integration skills.",
-    "id": "Simplex-june29108/saas-api-skills",
-    "language": "\u2014",
-    "name": "Simplex-june29108/saas-api-skills",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:21:06Z",
-    "url": "https://github.com/Simplex-june29108/saas-api-skills"
-  },
-  {
-    "description": "Collect and share persona skill files to run digital mind models within the DistillHub platform.",
-    "id": "angeliuu/awesome-distillhub-persona-skills",
-    "language": "\u2014",
-    "name": "angeliuu/awesome-distillhub-persona-skills",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:21:04Z",
-    "url": "https://github.com/angeliuu/awesome-distillhub-persona-skills"
-  },
-  {
-    "description": "Claude Code skills extracted from production work on autoraters for UX and product. Install: npx skills add darrenhead/s",
-    "id": "darrenhead/skills",
-    "language": "\u2014",
-    "name": "darrenhead/skills",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:21:01Z",
-    "url": "https://github.com/darrenhead/skills"
-  },
-  {
-    "description": "",
-    "id": "senoperslod/Skills",
-    "language": "\u2014",
-    "name": "senoperslod/Skills",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:21:00Z",
-    "url": "https://github.com/senoperslod/Skills"
-  },
-  {
-    "description": "Import Excel and PowerPoint skills into Claude Code to automate spreadsheets and presentations using local filesystem ac",
-    "id": "Borjani1577/claude-office-skills",
-    "language": "Python",
-    "name": "Borjani1577/claude-office-skills",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:20:59Z",
-    "url": "https://github.com/Borjani1577/claude-office-skills"
-  },
-  {
-    "description": "Agent skills for Scry.io -- SQL + vector search over the internet. Install: npx skills add exopriors/skills",
-    "id": "ExoPriors/skills",
-    "language": "\u2014",
-    "name": "ExoPriors/skills",
-    "stars": 3,
-    "updated_at": "2026-05-29T14:20:53Z",
-    "url": "https://github.com/ExoPriors/skills"
-  },
-  {
-    "description": "\u5b58\u653e\u81ea\u5df1\u7528\u7684\u5947\u5947\u602a\u602a\u7684skill\uff0c\u5305\u542b\u7f8e\u80a1\u5206\u6790\u65e5\u62a5\u3001\u6728\u67dc\u5b50live\u5012\u8ba1\u65f6\u7b49\u7b49",
-    "id": "TzeHimSung/gemili-skills",
-    "language": "Python",
-    "name": "TzeHimSung/gemili-skills",
-    "stars": 3,
-    "updated_at": "2026-05-29T14:20:49Z",
-    "url": "https://github.com/TzeHimSung/gemili-skills"
-  },
-  {
-    "description": "Automate AI research workflows using Claude Code skills to manage project progress, perform rigorous algorithm reviews, ",
-    "id": "Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy",
-    "language": "\u2014",
-    "name": "Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy",
-    "stars": 0,
-    "updated_at": "2026-05-29T14:20:48Z",
-    "url": "https://github.com/Servicestationshowoff8603/Research-Start__Skills-for-efficiency-and-accuracy"
   }
 ]
