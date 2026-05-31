@@ -1,5 +1,41 @@
 [
   {
+    "description": "Interactive presentation on AI Subagents and Skills - orchestration patterns, skill anatomy, and real-world tools",
+    "id": "CodigoSinSiesta/subagents-skills-presentation",
+    "language": "Svelte",
+    "name": "CodigoSinSiesta/subagents-skills-presentation",
+    "stars": 0,
+    "updated_at": "2026-05-31T19:45:44Z",
+    "url": "https://github.com/CodigoSinSiesta/subagents-skills-presentation"
+  },
+  {
+    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
+    "id": "Rsdavisde/skills-github-pages",
+    "language": "\u2014",
+    "name": "Rsdavisde/skills-github-pages",
+    "stars": 0,
+    "updated_at": "2026-05-31T19:45:43Z",
+    "url": "https://github.com/Rsdavisde/skills-github-pages"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 2,
+    "updated_at": "2026-05-31T19:45:31Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-05-31T19:45:31Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
     "id": "linny006/trending-claude-skills",
     "language": "Python",
@@ -79,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-05-31T19:42:55Z",
     "url": "https://github.com/jayteealao/agent-skills"
-  },
-  {
-    "description": "Exercise: Create a site or blog from your GitHub repositories with GitHub Pages",
-    "id": "Rsdavisde/skills-github-pages",
-    "language": "\u2014",
-    "name": "Rsdavisde/skills-github-pages",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:42:36Z",
-    "url": "https://github.com/Rsdavisde/skills-github-pages"
   },
   {
     "description": "Unified agent skills for Pi, Claude Code, Codex \u2014 one repo, one deploy command",
@@ -792,24 +819,6 @@
     "url": "https://github.com/leandrohow/skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 1,
-    "updated_at": "2026-05-31T19:30:31Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 2,
-    "updated_at": "2026-05-31T19:30:27Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Claude Code Skills for Closhot \u00b7 \u4e1a\u52a1\u4e13\u5c5e\u6280\u80fd\u5e93",
     "id": "abikonicaq077-rgb/Closhot-Skills",
     "language": "\u2014",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-05-31T19:29:02Z",
     "url": "https://github.com/Greenrestlessness223/alpha-skills"
-  },
-  {
-    "description": "Collect security skills and MCP tools for code audit, pentest, reverse engineering, CTF, and security research",
-    "id": "chilidogbedrichsmetana595/SecSkills",
-    "language": "\u2014",
-    "name": "chilidogbedrichsmetana595/SecSkills",
-    "stars": 0,
-    "updated_at": "2026-05-31T19:29:01Z",
-    "url": "https://github.com/chilidogbedrichsmetana595/SecSkills"
   }
 ]
