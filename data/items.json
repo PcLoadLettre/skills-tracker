@@ -1,5 +1,59 @@
 [
   {
+    "description": "Developing Skills in: AWS, Sybersecurity and Python",
+    "id": "malikigabriel/60-Days-Skills-Development-Challenge",
+    "language": "Python",
+    "name": "malikigabriel/60-Days-Skills-Development-Challenge",
+    "stars": 0,
+    "updated_at": "2026-06-02T21:30:22Z",
+    "url": "https://github.com/malikigabriel/60-Days-Skills-Development-Challenge"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 1,
+    "updated_at": "2026-06-02T21:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "AI instruction files in SKILL.md format \u2014 indexed by Skills.sh and SkillsMP",
+    "id": "tomevault-io/skills-registry",
+    "language": "\u2014",
+    "name": "tomevault-io/skills-registry",
+    "stars": 0,
+    "updated_at": "2026-06-02T21:30:05Z",
+    "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
+    "description": "",
+    "id": "ibm-skills-network/mark",
+    "language": "TypeScript",
+    "name": "ibm-skills-network/mark",
+    "stars": 22,
+    "updated_at": "2026-06-02T21:30:05Z",
+    "url": "https://github.com/ibm-skills-network/mark"
+  },
+  {
+    "description": "Shared skills repository for Claude orchestrators - SignalK, SensESP, Victron, and marine systems expertise",
+    "id": "dougkimmerly/claude-skills",
+    "language": "Shell",
+    "name": "dougkimmerly/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-06-02T21:29:40Z",
+    "url": "https://github.com/dougkimmerly/claude-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 2,
+    "updated_at": "2026-06-02T21:29:29Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Reusable agent skills for Claude Code, OpenCode, and Codex",
     "id": "dzianisv/skills",
     "language": "TypeScript",
@@ -189,15 +243,6 @@
     "url": "https://github.com/ssurmic/claude-investment-skills"
   },
   {
-    "description": "Developing Skills in: AWS, Sybersecurity and Python",
-    "id": "malikigabriel/60-Days-Skills-Development-Challenge",
-    "language": "\u2014",
-    "name": "malikigabriel/60-Days-Skills-Development-Challenge",
-    "stars": 0,
-    "updated_at": "2026-06-02T21:21:15Z",
-    "url": "https://github.com/malikigabriel/60-Days-Skills-Development-Challenge"
-  },
-  {
     "description": "Exercise: Get started using GitHub Copilot",
     "id": "rnoory/LEARNING-skills-getting-started-with-github-copilot",
     "language": "JavaScript",
@@ -315,15 +360,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 2,
-    "updated_at": "2026-06-02T21:15:40Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Exercise: Code with Codespaces",
     "id": "serohm/skills-code-with-codespaces",
     "language": "Python",
@@ -331,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-06-02T21:15:19Z",
     "url": "https://github.com/serohm/skills-code-with-codespaces"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 1,
-    "updated_at": "2026-06-02T21:15:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
@@ -871,32 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-02T20:58:51Z",
     "url": "https://github.com/seyimusibau-cyber/Skills-Shortage-UK"
-  },
-  {
-    "description": "A public library of reusable skills for investment professionals.",
-    "id": "latour-ai/skills",
-    "language": "\u2014",
-    "name": "latour-ai/skills",
-    "stars": 1,
-    "updated_at": "2026-06-02T20:58:35Z",
-    "url": "https://github.com/latour-ai/skills"
-  },
-  {
-    "description": "Formal Logic & Expertise. A living knowledge base featuring Lean 4 legal formalization and AI-agentic workflows.",
-    "id": "franklinbaldo/skills",
-    "language": "Lean",
-    "name": "franklinbaldo/skills",
-    "stars": 0,
-    "updated_at": "2026-06-02T21:11:26Z",
-    "url": "https://github.com/franklinbaldo/skills"
-  },
-  {
-    "description": "Automate Salesforce RevOps tasks with Claude agent skills designed for pipeline hygiene, forecast reconciliation, and de",
-    "id": "ariyantoa291/revops-skills",
-    "language": "Python",
-    "name": "ariyantoa291/revops-skills",
-    "stars": 0,
-    "updated_at": "2026-06-02T20:58:31Z",
-    "url": "https://github.com/ariyantoa291/revops-skills"
   }
 ]
