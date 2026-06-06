@@ -1,5 +1,50 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-06T19:00:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "This repository only contains notes and project work related all the skills acquired by me.",
+    "id": "Durgamishra/Skills",
+    "language": "\u2014",
+    "name": "Durgamishra/Skills",
+    "stars": 0,
+    "updated_at": "2026-06-06T19:00:15Z",
+    "url": "https://github.com/Durgamishra/Skills"
+  },
+  {
+    "description": "",
+    "id": "noumandawar2022/SkillSwap-DBMS-Project",
+    "language": "\u2014",
+    "name": "noumandawar2022/SkillSwap-DBMS-Project",
+    "stars": 0,
+    "updated_at": "2026-06-06T19:00:12Z",
+    "url": "https://github.com/noumandawar2022/SkillSwap-DBMS-Project"
+  },
+  {
+    "description": "Hermes\u5e73\u53f0 skills \u6bcf\u65e5\u5907\u4efd",
+    "id": "yanghq168/jorge-hermes-skills",
+    "language": "Python",
+    "name": "yanghq168/jorge-hermes-skills",
+    "stars": 0,
+    "updated_at": "2026-06-06T19:00:04Z",
+    "url": "https://github.com/yanghq168/jorge-hermes-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 3,
+    "updated_at": "2026-06-06T18:59:48Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Claude Code skill: quizzes you on code diffs, specs, and plans to verify understanding before committing",
     "id": "rodbv/socratic-skills",
     "language": "\u2014",
@@ -34,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-06-06T18:58:50Z",
     "url": "https://github.com/andrewm621/operator-skills"
-  },
-  {
-    "description": "This repository only contains notes and project work related all the skills acquired by me.",
-    "id": "Durgamishra/Skills",
-    "language": "\u2014",
-    "name": "Durgamishra/Skills",
-    "stars": 0,
-    "updated_at": "2026-06-06T18:58:37Z",
-    "url": "https://github.com/Durgamishra/Skills"
   },
   {
     "description": "",
@@ -495,24 +531,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 3,
-    "updated_at": "2026-06-06T18:45:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-06T18:45:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "",
     "id": "iamabdelhadi02/skills",
     "language": "\u2014",
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-06T18:34:04Z",
     "url": "https://github.com/devnido/skills"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "vmohr96/skills-introduction-to-git",
-    "language": "Shell",
-    "name": "vmohr96/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-06-06T18:33:46Z",
-    "url": "https://github.com/vmohr96/skills-introduction-to-git"
-  },
-  {
-    "description": "",
-    "id": "sadiqgoni/nwdc-skills-portal",
-    "language": "PHP",
-    "name": "sadiqgoni/nwdc-skills-portal",
-    "stars": 0,
-    "updated_at": "2026-06-06T18:33:09Z",
-    "url": "https://github.com/sadiqgoni/nwdc-skills-portal"
   }
 ]
