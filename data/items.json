@@ -1,5 +1,32 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-07T18:45:13Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "qiu-daoyu/my-finance-skills",
+    "language": "\u2014",
+    "name": "qiu-daoyu/my-finance-skills",
+    "stars": 0,
+    "updated_at": "2026-06-07T18:45:01Z",
+    "url": "https://github.com/qiu-daoyu/my-finance-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 3,
+    "updated_at": "2026-06-07T18:44:29Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "",
     "id": "WebRobot-Ltd/claude-code-webrobot-skills",
     "language": "Python",
@@ -34,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-06-07T18:43:49Z",
     "url": "https://github.com/AlMamunTalukder/craft-skills-client"
-  },
-  {
-    "description": "",
-    "id": "qiu-daoyu/my-finance-skills",
-    "language": "\u2014",
-    "name": "qiu-daoyu/my-finance-skills",
-    "stars": 0,
-    "updated_at": "2026-06-07T18:43:47Z",
-    "url": "https://github.com/qiu-daoyu/my-finance-skills"
   },
   {
     "description": "Postagens Inteligentes",
@@ -333,6 +351,15 @@
     "url": "https://github.com/mikiwiik/claude-code-skills"
   },
   {
+    "description": "",
+    "id": "giovanniglbrt-cyber/minhas-skills-claude",
+    "language": "\u2014",
+    "name": "giovanniglbrt-cyber/minhas-skills-claude",
+    "stars": 0,
+    "updated_at": "2026-06-07T18:36:56Z",
+    "url": "https://github.com/giovanniglbrt-cyber/minhas-skills-claude"
+  },
+  {
     "description": "Exercise: Introduction to GitHub",
     "id": "uladrak/skills-introduction-to-github",
     "language": "\u2014",
@@ -374,7 +401,7 @@
     "language": "Python",
     "name": "bestdan/workflow-skills",
     "stars": 1,
-    "updated_at": "2026-06-07T18:42:26Z",
+    "updated_at": "2026-06-07T18:45:24Z",
     "url": "https://github.com/bestdan/workflow-skills"
   },
   {
@@ -603,15 +630,6 @@
     "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 3,
-    "updated_at": "2026-06-07T18:30:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Skills I am developing after reading books",
     "id": "Wbunker/skills-repo",
     "language": "Python",
@@ -619,15 +637,6 @@
     "stars": 0,
     "updated_at": "2026-06-07T18:30:13Z",
     "url": "https://github.com/Wbunker/skills-repo"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-07T18:30:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "AI instruction files in SKILL.md format \u2014 indexed by Skills.sh and SkillsMP",
@@ -889,14 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-07T18:22:26Z",
     "url": "https://github.com/RonanCodes/ronan-skills"
-  },
-  {
-    "description": "Exercise: Get started using GitHub Copilot",
-    "id": "slimbenbelgacem97/skills-getting-started-with-github-copilot",
-    "language": "Python",
-    "name": "slimbenbelgacem97/skills-getting-started-with-github-copilot",
-    "stars": 0,
-    "updated_at": "2026-06-07T18:22:23Z",
-    "url": "https://github.com/slimbenbelgacem97/skills-getting-started-with-github-copilot"
   }
 ]
