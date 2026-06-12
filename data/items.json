@@ -1,5 +1,50 @@
 [
   {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 3,
+    "updated_at": "2026-06-12T17:15:17Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-12T17:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Provide structured, AI-native code review rules and examples to improve code quality and support both human and automate",
+    "id": "Khwaja-Khunshan/beforemerge-skills",
+    "language": "JavaScript",
+    "name": "Khwaja-Khunshan/beforemerge-skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T17:15:14Z",
+    "url": "https://github.com/Khwaja-Khunshan/beforemerge-skills"
+  },
+  {
+    "description": "Provide and manage open-source AI agent skills for automatic task recognition and execution via a structured repository.",
+    "id": "Ezmeyer/Skills4U",
+    "language": "HTML",
+    "name": "Ezmeyer/Skills4U",
+    "stars": 0,
+    "updated_at": "2026-06-12T17:15:14Z",
+    "url": "https://github.com/Ezmeyer/Skills4U"
+  },
+  {
+    "description": "Enable AI tools to perform product management tasks like critiquing PRDs, analyzing SaaS metrics, and planning roadmaps ",
+    "id": "ayybee1/product-manager-skills",
+    "language": "\u2014",
+    "name": "ayybee1/product-manager-skills",
+    "stars": 0,
+    "updated_at": "2026-06-12T17:15:01Z",
+    "url": "https://github.com/ayybee1/product-manager-skills"
+  },
+  {
     "description": "Manage SEO tasks with 44 Claude Code commands for audits, backlink analysis, ranking tracking, SERP research, and conten",
     "id": "YogeshKu7877/claude-seo-skills",
     "language": "Python",
@@ -853,50 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-12T17:03:34Z",
     "url": "https://github.com/amanahmed2222/skills"
-  },
-  {
-    "description": "",
-    "id": "bilacchi/agents-skills",
-    "language": "Python",
-    "name": "bilacchi/agents-skills",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:03:31Z",
-    "url": "https://github.com/bilacchi/agents-skills"
-  },
-  {
-    "description": "",
-    "id": "aayushsinha44/skills",
-    "language": "\u2014",
-    "name": "aayushsinha44/skills",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:03:16Z",
-    "url": "https://github.com/aayushsinha44/skills"
-  },
-  {
-    "description": "\ud83d\udcda Streamline story writing using markdown and AI agents to manage characters, plots, and chapters with structured YAML f",
-    "id": "bs779517/story-skills",
-    "language": "\u2014",
-    "name": "bs779517/story-skills",
-    "stars": 4,
-    "updated_at": "2026-06-12T17:02:44Z",
-    "url": "https://github.com/bs779517/story-skills"
-  },
-  {
-    "description": "",
-    "id": "liuli195/my-agent-skills",
-    "language": "Python",
-    "name": "liuli195/my-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-12T17:04:55Z",
-    "url": "https://github.com/liuli195/my-agent-skills"
-  },
-  {
-    "description": "PostHog skills (under construction)",
-    "id": "PostHog/skills",
-    "language": "Python",
-    "name": "PostHog/skills",
-    "stars": 46,
-    "updated_at": "2026-06-12T17:02:26Z",
-    "url": "https://github.com/PostHog/skills"
   }
 ]
