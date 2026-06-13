@@ -1,5 +1,77 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 3,
+    "updated_at": "2026-06-13T08:15:15Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "My clone repository",
+    "id": "shreyas2228/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "shreyas2228/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-06-13T08:15:07Z",
+    "url": "https://github.com/shreyas2228/skills-introduction-to-github"
+  },
+  {
+    "description": "",
+    "id": "ainoobmanpg/ainoobmanpg-skills",
+    "language": "\u2014",
+    "name": "ainoobmanpg/ainoobmanpg-skills",
+    "stars": 0,
+    "updated_at": "2026-06-13T08:15:00Z",
+    "url": "https://github.com/ainoobmanpg/ainoobmanpg-skills"
+  },
+  {
+    "description": "",
+    "id": "hfritz/hf-skills",
+    "language": "Shell",
+    "name": "hfritz/hf-skills",
+    "stars": 0,
+    "updated_at": "2026-06-13T08:14:51Z",
+    "url": "https://github.com/hfritz/hf-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 3,
+    "updated_at": "2026-06-13T08:14:43Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated agent skills for MoonBit and coding workflows",
+    "id": "dowdiness/skills",
+    "language": "Python",
+    "name": "dowdiness/skills",
+    "stars": 0,
+    "updated_at": "2026-06-13T08:14:40Z",
+    "url": "https://github.com/dowdiness/skills"
+  },
+  {
+    "description": "My own MoonBit language SKILL",
+    "id": "dowdiness/moonbit-skills",
+    "language": "Shell",
+    "name": "dowdiness/moonbit-skills",
+    "stars": 0,
+    "updated_at": "2026-06-13T08:14:38Z",
+    "url": "https://github.com/dowdiness/moonbit-skills"
+  },
+  {
+    "description": "agent skills",
+    "id": "webcane/skills",
+    "language": "Python",
+    "name": "webcane/skills",
+    "stars": 0,
+    "updated_at": "2026-06-13T08:14:19Z",
+    "url": "https://github.com/webcane/skills"
+  },
+  {
     "description": "Scripts for agents, shared between my repositories.",
     "id": "matthew-a-carr/dev-skills",
     "language": "Python",
@@ -160,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T08:11:31Z",
     "url": "https://github.com/Saadkhalid4378/skills-customize-your-github-copilot-experience"
-  },
-  {
-    "description": "agent skills",
-    "id": "webcane/skills",
-    "language": "Python",
-    "name": "webcane/skills",
-    "stars": 0,
-    "updated_at": "2026-06-13T08:14:19Z",
-    "url": "https://github.com/webcane/skills"
   },
   {
     "description": "Accessibility planner-critic skill pair for Claude Code \u2014 WCAG implementation planning + ARIA/focus/semantic review",
@@ -585,15 +648,6 @@
     "url": "https://github.com/tddworks/claude-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 3,
-    "updated_at": "2026-06-13T08:00:34Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "",
     "id": "jc1122/repo-audit-skills",
     "language": "Python",
@@ -630,15 +684,6 @@
     "url": "https://github.com/DylanChiang-Dev/liberal-arts-research-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 3,
-    "updated_at": "2026-06-13T08:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "The repo for all system/public ornn skills",
     "id": "ChronoAIProject/ornn-skills",
     "language": "JavaScript",
@@ -664,15 +709,6 @@
     "stars": 0,
     "updated_at": "2026-06-13T08:00:01Z",
     "url": "https://github.com/lovegold120221-dot/eburonhub-skills"
-  },
-  {
-    "description": "",
-    "id": "ainoobmanpg/ainoobmanpg-skills",
-    "language": "\u2014",
-    "name": "ainoobmanpg/ainoobmanpg-skills",
-    "stars": 0,
-    "updated_at": "2026-06-13T08:13:30Z",
-    "url": "https://github.com/ainoobmanpg/ainoobmanpg-skills"
   },
   {
     "description": "An index of Claude and agent skills for academic work, from literature search to peer review. Organized by where each sk",
@@ -862,41 +898,5 @@
     "stars": 1143,
     "updated_at": "2026-06-13T07:55:01Z",
     "url": "https://github.com/yaojingang/yao-open-skills"
-  },
-  {
-    "description": "AI \u51b2\u523a\u5de5\u574a\u53c2\u4e0e\u8005 skill \u5305\uff08\u534a\u5929\u5e72\u4e2d\u5b66\uff09",
-    "id": "howoneai/ai-sprint-workshop-skills",
-    "language": "Python",
-    "name": "howoneai/ai-sprint-workshop-skills",
-    "stars": 0,
-    "updated_at": "2026-06-13T07:55:00Z",
-    "url": "https://github.com/howoneai/ai-sprint-workshop-skills"
-  },
-  {
-    "description": "Exercise: Introduction to Git",
-    "id": "MUKILAN06/skills-introduction-to-git",
-    "language": "Shell",
-    "name": "MUKILAN06/skills-introduction-to-git",
-    "stars": 0,
-    "updated_at": "2026-06-13T07:54:49Z",
-    "url": "https://github.com/MUKILAN06/skills-introduction-to-git"
-  },
-  {
-    "description": "Exercise: Review pull requests",
-    "id": "Tomuzou/skills-review-pull-requests",
-    "language": "HTML",
-    "name": "Tomuzou/skills-review-pull-requests",
-    "stars": 0,
-    "updated_at": "2026-06-13T07:54:43Z",
-    "url": "https://github.com/Tomuzou/skills-review-pull-requests"
-  },
-  {
-    "description": "Exercise: Build applications with GitHub Copilot agent mode",
-    "id": "hiromikatou/skills-build-applications-w-copilot-agent-mode",
-    "language": "Shell",
-    "name": "hiromikatou/skills-build-applications-w-copilot-agent-mode",
-    "stars": 0,
-    "updated_at": "2026-06-13T07:54:20Z",
-    "url": "https://github.com/hiromikatou/skills-build-applications-w-copilot-agent-mode"
   }
 ]
