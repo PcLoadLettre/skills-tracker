@@ -1,5 +1,68 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-18T19:15:17Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "YLakshmiReddy/SKILLSYNCAI_PDD_SPIC7A26",
+    "language": "Kotlin",
+    "name": "YLakshmiReddy/SKILLSYNCAI_PDD_SPIC7A26",
+    "stars": 0,
+    "updated_at": "2026-06-18T19:15:04Z",
+    "url": "https://github.com/YLakshmiReddy/SKILLSYNCAI_PDD_SPIC7A26"
+  },
+  {
+    "description": "AI Skills for Antithesis Users",
+    "id": "antithesishq/antithesis-skills",
+    "language": "JavaScript",
+    "name": "antithesishq/antithesis-skills",
+    "stars": 67,
+    "updated_at": "2026-06-18T19:15:02Z",
+    "url": "https://github.com/antithesishq/antithesis-skills"
+  },
+  {
+    "description": "",
+    "id": "Teycir/SkillsGuard",
+    "language": "TypeScript",
+    "name": "Teycir/SkillsGuard",
+    "stars": 0,
+    "updated_at": "2026-06-18T19:14:58Z",
+    "url": "https://github.com/Teycir/SkillsGuard"
+  },
+  {
+    "description": "Life-sciences CSV & GxP toolkit for Claude Code \u2014 GAMP 5, 21 CFR Part 11, EU GMP Annex 11, the live eCFR & openFDA, and ",
+    "id": "paraqualis/paraqualis-skills",
+    "language": "Python",
+    "name": "paraqualis/paraqualis-skills",
+    "stars": 0,
+    "updated_at": "2026-06-18T19:14:42Z",
+    "url": "https://github.com/paraqualis/paraqualis-skills"
+  },
+  {
+    "description": "Browserbase's official collection of agent skills to access the web.",
+    "id": "browserbase/skills",
+    "language": "JavaScript",
+    "name": "browserbase/skills",
+    "stars": 3572,
+    "updated_at": "2026-06-18T19:14:27Z",
+    "url": "https://github.com/browserbase/skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 5,
+    "updated_at": "2026-06-18T19:14:25Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
     "description": "Exercise: Build applications with GitHub Copilot agent mode",
     "id": "aalandril/skills-build-applications-w-copilot-agent-mode",
     "language": "Shell",
@@ -14,7 +77,7 @@
     "language": "\u2014",
     "name": "TianBM/opencode-skills",
     "stars": 0,
-    "updated_at": "2026-06-18T19:13:35Z",
+    "updated_at": "2026-06-18T19:15:24Z",
     "url": "https://github.com/TianBM/opencode-skills"
   },
   {
@@ -108,15 +171,6 @@
     "url": "https://github.com/NsmithEconometrica/skills-introduction-to-github"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-18T19:11:14Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Turn Claude into a recruiting coordinator: write JDs, screen resumes (bias-aware), build structured interviews.",
     "id": "Uhudsavasindankacanokcu2/recruiting-skills-for-claude",
     "language": "\u2014",
@@ -185,7 +239,7 @@
     "language": "\u2014",
     "name": "ArabellaBall2/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-06-18T19:10:26Z",
+    "updated_at": "2026-06-18T19:14:46Z",
     "url": "https://github.com/ArabellaBall2/skills-introduction-to-github"
   },
   {
@@ -301,7 +355,7 @@
     "id": "addyosmani/agent-skills",
     "language": "Shell",
     "name": "addyosmani/agent-skills",
-    "stars": 62821,
+    "stars": 62822,
     "updated_at": "2026-06-18T19:05:55Z",
     "url": "https://github.com/addyosmani/agent-skills"
   },
@@ -331,15 +385,6 @@
     "stars": 2024,
     "updated_at": "2026-06-18T19:05:18Z",
     "url": "https://github.com/Agentchengfeng/videocut-skills"
-  },
-  {
-    "description": "",
-    "id": "Teycir/SkillsGuard",
-    "language": "TypeScript",
-    "name": "Teycir/SkillsGuard",
-    "stars": 0,
-    "updated_at": "2026-06-18T19:04:51Z",
-    "url": "https://github.com/Teycir/SkillsGuard"
   },
   {
     "description": "",
@@ -565,15 +610,6 @@
     "stars": 0,
     "updated_at": "2026-06-18T19:00:46Z",
     "url": "https://github.com/ChronoAIProject/ornn-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 5,
-    "updated_at": "2026-06-18T19:00:43Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T18:52:37Z",
     "url": "https://github.com/radesjardins/RAD-Codex-Skills"
-  },
-  {
-    "description": "",
-    "id": "lastapicloud/saas-api-skills",
-    "language": "\u2014",
-    "name": "lastapicloud/saas-api-skills",
-    "stars": 10,
-    "updated_at": "2026-06-18T18:52:04Z",
-    "url": "https://github.com/lastapicloud/saas-api-skills"
-  },
-  {
-    "description": "",
-    "id": "Skills4hire-org/skills-4-hire-backend",
-    "language": "Python",
-    "name": "Skills4hire-org/skills-4-hire-backend",
-    "stars": 1,
-    "updated_at": "2026-06-18T18:52:02Z",
-    "url": "https://github.com/Skills4hire-org/skills-4-hire-backend"
-  },
-  {
-    "description": "",
-    "id": "YLakshmiReddy/SKILLSYNCAI_PDD_SPIC7A26",
-    "language": "Kotlin",
-    "name": "YLakshmiReddy/SKILLSYNCAI_PDD_SPIC7A26",
-    "stars": 0,
-    "updated_at": "2026-06-18T18:51:45Z",
-    "url": "https://github.com/YLakshmiReddy/SKILLSYNCAI_PDD_SPIC7A26"
-  },
-  {
-    "description": "",
-    "id": "ebguilbert/magnolia-skills",
-    "language": "\u2014",
-    "name": "ebguilbert/magnolia-skills",
-    "stars": 0,
-    "updated_at": "2026-06-18T18:51:41Z",
-    "url": "https://github.com/ebguilbert/magnolia-skills"
   }
 ]
