@@ -1,5 +1,41 @@
 [
   {
+    "description": "Part 2 of the AI and agent skills collection, with 650+ skill folders focused on reusable workflows, security playbooks,",
+    "id": "pinkpixel-dev/skills-collection-2",
+    "language": "Python",
+    "name": "pinkpixel-dev/skills-collection-2",
+    "stars": 1,
+    "updated_at": "2026-06-18T23:15:52Z",
+    "url": "https://github.com/pinkpixel-dev/skills-collection-2"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 8,
+    "updated_at": "2026-06-18T23:15:36Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 5,
+    "updated_at": "2026-06-18T23:15:33Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "",
+    "id": "bpollak/UCSD-Skills-Library-Site",
+    "language": "TypeScript",
+    "name": "bpollak/UCSD-Skills-Library-Site",
+    "stars": 0,
+    "updated_at": "2026-06-18T23:16:07Z",
+    "url": "https://github.com/bpollak/UCSD-Skills-Library-Site"
+  },
+  {
     "description": "Part 1 of a large AI and agent skills collection featuring 900+ reusable skill folders, prompt workflows, references, sc",
     "id": "pinkpixel-dev/skills-collection-1",
     "language": "Python",
@@ -385,24 +421,6 @@
     "stars": 2,
     "updated_at": "2026-06-18T23:01:09Z",
     "url": "https://github.com/YingkeSu/session2skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 8,
-    "updated_at": "2026-06-18T23:00:36Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 5,
-    "updated_at": "2026-06-18T23:00:32Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "",
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-18T22:34:51Z",
     "url": "https://github.com/somospragma/integration-agent-skills"
-  },
-  {
-    "description": "Collection of AI Skills for MaRDi",
-    "id": "MaRDI4NFDI/MaRDI-skills",
-    "language": "Python",
-    "name": "MaRDI4NFDI/MaRDI-skills",
-    "stars": 0,
-    "updated_at": "2026-06-18T22:34:29Z",
-    "url": "https://github.com/MaRDI4NFDI/MaRDI-skills"
-  },
-  {
-    "description": "",
-    "id": "frankxai/awesome-mind-agent-skills",
-    "language": "\u2014",
-    "name": "frankxai/awesome-mind-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-18T22:34:18Z",
-    "url": "https://github.com/frankxai/awesome-mind-agent-skills"
   }
 ]
