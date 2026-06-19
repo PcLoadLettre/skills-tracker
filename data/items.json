@@ -1,12 +1,66 @@
 [
   {
+    "description": "Exercise: Introduction to Git",
+    "id": "GMakeziG/skills-introduction-to-git",
+    "language": "Shell",
+    "name": "GMakeziG/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-06-19T23:45:21Z",
+    "url": "https://github.com/GMakeziG/skills-introduction-to-git"
+  },
+  {
     "description": "AI instruction files in SKILL.md format \u2014 indexed by Skills.sh and SkillsMP",
     "id": "tomevault-io/skills-registry",
     "language": "\u2014",
     "name": "tomevault-io/skills-registry",
     "stars": 0,
-    "updated_at": "2026-06-19T23:44:24Z",
+    "updated_at": "2026-06-19T23:45:23Z",
     "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-19T23:45:12Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Skillscript \u2014 a small declarative language for authoring agent workflows. Runtime, compiler, and CLI.",
+    "id": "sshwarts/skillscript",
+    "language": "TypeScript",
+    "name": "sshwarts/skillscript",
+    "stars": 3,
+    "updated_at": "2026-06-19T23:45:09Z",
+    "url": "https://github.com/sshwarts/skillscript"
+  },
+  {
+    "description": "claude code/codex skills/plugins for boltz-compute",
+    "id": "boltz-bio/boltz-api-skills",
+    "language": "Python",
+    "name": "boltz-bio/boltz-api-skills",
+    "stars": 1,
+    "updated_at": "2026-06-19T23:44:41Z",
+    "url": "https://github.com/boltz-bio/boltz-api-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 5,
+    "updated_at": "2026-06-19T23:44:28Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "",
+    "id": "ChenDaiwei-99/my-awesome-agent-skills",
+    "language": "\u2014",
+    "name": "ChenDaiwei-99/my-awesome-agent-skills",
+    "stars": 0,
+    "updated_at": "2026-06-19T23:44:22Z",
+    "url": "https://github.com/ChenDaiwei-99/my-awesome-agent-skills"
   },
   {
     "description": "",
@@ -95,7 +149,7 @@
     "language": "\u2014",
     "name": "doze-softly/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-06-19T23:42:12Z",
+    "updated_at": "2026-06-19T23:45:05Z",
     "url": "https://github.com/doze-softly/skills-introduction-to-github"
   },
   {
@@ -369,15 +423,6 @@
     "url": "https://github.com/emerose/skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 5,
-    "updated_at": "2026-06-19T23:30:31Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -412,15 +457,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T23:30:13Z",
     "url": "https://github.com/auto-dot-sh/skills"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-19T23:30:12Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
@@ -862,41 +898,5 @@
     "stars": 22,
     "updated_at": "2026-06-19T23:10:13Z",
     "url": "https://github.com/OpenLinkSoftware/ai-agent-skills"
-  },
-  {
-    "description": "Agent skills for an idea-to-merge workflow: ideate, review-pr, ast-grep",
-    "id": "itisparas/skills",
-    "language": "Shell",
-    "name": "itisparas/skills",
-    "stars": 0,
-    "updated_at": "2026-06-19T23:10:10Z",
-    "url": "https://github.com/itisparas/skills"
-  },
-  {
-    "description": "A curated collection of custom AI agent skills for extending coding assistant capabilities.",
-    "id": "CypherPoet/custom-agent-skills",
-    "language": "Python",
-    "name": "CypherPoet/custom-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-19T23:38:08Z",
-    "url": "https://github.com/CypherPoet/custom-agent-skills"
-  },
-  {
-    "description": "Reusable AI coding skills for Claude Code, Cursor, Codex, and Gemini",
-    "id": "es6kr/skills",
-    "language": "Shell",
-    "name": "es6kr/skills",
-    "stars": 0,
-    "updated_at": "2026-06-19T23:11:34Z",
-    "url": "https://github.com/es6kr/skills"
-  },
-  {
-    "description": "Exercise: Agentic Workflows That Read the Room",
-    "id": "DavidCevallos15/skills-agentic-workflows-that-read-the-room",
-    "language": "Astro",
-    "name": "DavidCevallos15/skills-agentic-workflows-that-read-the-room",
-    "stars": 0,
-    "updated_at": "2026-06-19T23:09:16Z",
-    "url": "https://github.com/DavidCevallos15/skills-agentic-workflows-that-read-the-room"
   }
 ]
