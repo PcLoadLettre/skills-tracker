@@ -5,8 +5,107 @@
     "language": "\u2014",
     "name": "tomevault-io/skills-registry",
     "stars": 0,
-    "updated_at": "2026-06-19T20:14:23Z",
+    "updated_at": "2026-06-19T20:15:25Z",
     "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
+    "description": "AI agents, skills, slash commands, and MCP servers I build and use",
+    "id": "twescott/ai-agents-and-skills",
+    "language": "JavaScript",
+    "name": "twescott/ai-agents-and-skills",
+    "stars": 0,
+    "updated_at": "2026-06-19T20:15:18Z",
+    "url": "https://github.com/twescott/ai-agents-and-skills"
+  },
+  {
+    "description": "Reusable skills for AI coding agents (Claude Code, Codex, Gemini CLI, Copilot CLI)",
+    "id": "eworthing/agent-skills",
+    "language": "Python",
+    "name": "eworthing/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-06-19T20:15:17Z",
+    "url": "https://github.com/eworthing/agent-skills"
+  },
+  {
+    "description": "",
+    "id": "kaiomarques93/skills",
+    "language": "\u2014",
+    "name": "kaiomarques93/skills",
+    "stars": 0,
+    "updated_at": "2026-06-19T20:15:17Z",
+    "url": "https://github.com/kaiomarques93/skills"
+  },
+  {
+    "description": "Personal Hermes Agent skills",
+    "id": "wgaoei/hermes-skills",
+    "language": "\u2014",
+    "name": "wgaoei/hermes-skills",
+    "stars": 0,
+    "updated_at": "2026-06-19T20:15:16Z",
+    "url": "https://github.com/wgaoei/hermes-skills"
+  },
+  {
+    "description": "GitHub Skills: Introduction to Secret Scanning",
+    "id": "danilofantinato/skills-introduction-to-secret-scanning",
+    "language": "\u2014",
+    "name": "danilofantinato/skills-introduction-to-secret-scanning",
+    "stars": 0,
+    "updated_at": "2026-06-19T20:15:15Z",
+    "url": "https://github.com/danilofantinato/skills-introduction-to-secret-scanning"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-19T20:15:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "tecxbro/lemonslice-skills",
+    "language": "\u2014",
+    "name": "tecxbro/lemonslice-skills",
+    "stars": 0,
+    "updated_at": "2026-06-19T20:14:59Z",
+    "url": "https://github.com/tecxbro/lemonslice-skills"
+  },
+  {
+    "description": "Static security scanner for AI agent skill packages. Detects malicious SKILL.md files and bundled scripts before they ru",
+    "id": "Teycir/SkillsGuard",
+    "language": "TypeScript",
+    "name": "Teycir/SkillsGuard",
+    "stars": 0,
+    "updated_at": "2026-06-19T20:14:58Z",
+    "url": "https://github.com/Teycir/SkillsGuard"
+  },
+  {
+    "description": "",
+    "id": "SanderMuller/boost-skills",
+    "language": "PHP",
+    "name": "SanderMuller/boost-skills",
+    "stars": 1,
+    "updated_at": "2026-06-19T20:14:46Z",
+    "url": "https://github.com/SanderMuller/boost-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 5,
+    "updated_at": "2026-06-19T20:14:28Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Claude Code skills for attorneys: preflight, deep-plan, adversarial-review, verify-rigor, conduct, work-log \u2014 eliminate ",
+    "id": "substrateaibuilds/attorney-claude-skills",
+    "language": "Python",
+    "name": "substrateaibuilds/attorney-claude-skills",
+    "stars": 0,
+    "updated_at": "2026-06-19T20:14:23Z",
+    "url": "https://github.com/substrateaibuilds/attorney-claude-skills"
   },
   {
     "description": "",
@@ -99,15 +198,6 @@
     "url": "https://github.com/bpollak/UCSD-Skills-Library"
   },
   {
-    "description": "Static security scanner for AI agent skill packages. Detects malicious SKILL.md files and bundled scripts before they ru",
-    "id": "Teycir/SkillsGuard",
-    "language": "TypeScript",
-    "name": "Teycir/SkillsGuard",
-    "stars": 0,
-    "updated_at": "2026-06-19T20:12:03Z",
-    "url": "https://github.com/Teycir/SkillsGuard"
-  },
-  {
     "description": "Your Ultimate Claude Skills Library & Hub 2026 \u2013 Integrate & Organize AI Workflows",
     "id": "phuati/claude-skills-arsenal",
     "language": "HTML",
@@ -178,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T20:09:44Z",
     "url": "https://github.com/sergioaltuzar/skills-introduction-to-git"
-  },
-  {
-    "description": "Claude Code skills for attorneys: preflight, deep-plan, adversarial-review, verify-rigor, conduct, work-log \u2014 eliminate ",
-    "id": "substrateaibuilds/attorney-claude-skills",
-    "language": "Shell",
-    "name": "substrateaibuilds/attorney-claude-skills",
-    "stars": 0,
-    "updated_at": "2026-06-19T20:14:23Z",
-    "url": "https://github.com/substrateaibuilds/attorney-claude-skills"
   },
   {
     "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
@@ -451,24 +532,6 @@
   },
   {
     "description": "",
-    "id": "tecxbro/lemonslice-skills",
-    "language": "\u2014",
-    "name": "tecxbro/lemonslice-skills",
-    "stars": 0,
-    "updated_at": "2026-06-19T20:02:54Z",
-    "url": "https://github.com/tecxbro/lemonslice-skills"
-  },
-  {
-    "description": "Personal Hermes Agent skills",
-    "id": "wgaoei/hermes-skills",
-    "language": "\u2014",
-    "name": "wgaoei/hermes-skills",
-    "stars": 0,
-    "updated_at": "2026-06-19T20:02:50Z",
-    "url": "https://github.com/wgaoei/hermes-skills"
-  },
-  {
-    "description": "",
     "id": "guuse/claude-mtg-skills",
     "language": "Python",
     "name": "guuse/claude-mtg-skills",
@@ -513,15 +576,6 @@
     "url": "https://github.com/orrisroot/agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 5,
-    "updated_at": "2026-06-19T20:00:34Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -547,15 +601,6 @@
     "stars": 0,
     "updated_at": "2026-06-19T20:00:15Z",
     "url": "https://github.com/mtiepruitt/skills-getting-started-with-github-copilot"
-  },
-  {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-19T20:00:13Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
@@ -853,50 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-19T19:50:48Z",
     "url": "https://github.com/CGIAR-Climate-Data-Hub/skills"
-  },
-  {
-    "description": "Exercise: Resolve Merge Conflicts",
-    "id": "Asenat-MR/skills-resolve-merge-conflicts",
-    "language": "\u2014",
-    "name": "Asenat-MR/skills-resolve-merge-conflicts",
-    "stars": 0,
-    "updated_at": "2026-06-19T20:09:14Z",
-    "url": "https://github.com/Asenat-MR/skills-resolve-merge-conflicts"
-  },
-  {
-    "description": "",
-    "id": "SELAT-AI/selat-skills",
-    "language": "JavaScript",
-    "name": "SELAT-AI/selat-skills",
-    "stars": 0,
-    "updated_at": "2026-06-19T19:49:41Z",
-    "url": "https://github.com/SELAT-AI/selat-skills"
-  },
-  {
-    "description": "",
-    "id": "GeorgeQLe/agentic-skills",
-    "language": "HTML",
-    "name": "GeorgeQLe/agentic-skills",
-    "stars": 0,
-    "updated_at": "2026-06-19T19:49:09Z",
-    "url": "https://github.com/GeorgeQLe/agentic-skills"
-  },
-  {
-    "description": "",
-    "id": "trly/skills",
-    "language": "\u2014",
-    "name": "trly/skills",
-    "stars": 0,
-    "updated_at": "2026-06-19T19:48:39Z",
-    "url": "https://github.com/trly/skills"
-  },
-  {
-    "description": "Sovereign coding skills for AIX Format agents",
-    "id": "AIX-Format/aix-agent-skills",
-    "language": "Python",
-    "name": "AIX-Format/aix-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-19T19:48:08Z",
-    "url": "https://github.com/AIX-Format/aix-agent-skills"
   }
 ]
