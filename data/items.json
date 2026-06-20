@@ -1,12 +1,48 @@
 [
   {
-    "description": "Exercise: Get started using GitHub Copilot",
-    "id": "debdatta103/skills-getting-started-with-github-copilot",
-    "language": "JavaScript",
-    "name": "debdatta103/skills-getting-started-with-github-copilot",
+    "description": "AI instruction files in SKILL.md format \u2014 indexed by Skills.sh and SkillsMP",
+    "id": "tomevault-io/skills-registry",
+    "language": "\u2014",
+    "name": "tomevault-io/skills-registry",
     "stars": 0,
-    "updated_at": "2026-06-20T16:45:24Z",
-    "url": "https://github.com/debdatta103/skills-getting-started-with-github-copilot"
+    "updated_at": "2026-06-20T16:46:51Z",
+    "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
+    "description": "Exercise: Publish Docker Images",
+    "id": "manodevs/skills-publish-docker-images",
+    "language": "JavaScript",
+    "name": "manodevs/skills-publish-docker-images",
+    "stars": 0,
+    "updated_at": "2026-06-20T16:46:44Z",
+    "url": "https://github.com/manodevs/skills-publish-docker-images"
+  },
+  {
+    "description": "Exercise: Communicate using Markdown",
+    "id": "victor07-tech/skills-communicate-using-markdown",
+    "language": "\u2014",
+    "name": "victor07-tech/skills-communicate-using-markdown",
+    "stars": 0,
+    "updated_at": "2026-06-20T16:46:31Z",
+    "url": "https://github.com/victor07-tech/skills-communicate-using-markdown"
+  },
+  {
+    "description": "Bugcrowd VRT-based automation skills - AI & non-AI bug hunting automation SKILL.md files",
+    "id": "iamaworker-github/bughunting-skills",
+    "language": "\u2014",
+    "name": "iamaworker-github/bughunting-skills",
+    "stars": 0,
+    "updated_at": "2026-06-20T16:46:24Z",
+    "url": "https://github.com/iamaworker-github/bughunting-skills"
+  },
+  {
+    "description": "",
+    "id": "sree-pm/leancraft-skills",
+    "language": "\u2014",
+    "name": "sree-pm/leancraft-skills",
+    "stars": 0,
+    "updated_at": "2026-06-20T16:46:05Z",
+    "url": "https://github.com/sree-pm/leancraft-skills"
   },
   {
     "description": "Exercise: Publish Docker Images",
@@ -14,17 +50,53 @@
     "language": "JavaScript",
     "name": "jduclos386/skills-publish-docker-images2",
     "stars": 0,
-    "updated_at": "2026-06-20T16:45:24Z",
+    "updated_at": "2026-06-20T16:45:49Z",
     "url": "https://github.com/jduclos386/skills-publish-docker-images2"
   },
   {
-    "description": "AI instruction files in SKILL.md format \u2014 indexed by Skills.sh and SkillsMP",
-    "id": "tomevault-io/skills-registry",
-    "language": "\u2014",
-    "name": "tomevault-io/skills-registry",
+    "description": "Exercise: Get started using GitHub Copilot",
+    "id": "debdatta103/skills-getting-started-with-github-copilot",
+    "language": "JavaScript",
+    "name": "debdatta103/skills-getting-started-with-github-copilot",
     "stars": 0,
-    "updated_at": "2026-06-20T16:45:27Z",
-    "url": "https://github.com/tomevault-io/skills-registry"
+    "updated_at": "2026-06-20T16:45:37Z",
+    "url": "https://github.com/debdatta103/skills-getting-started-with-github-copilot"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 5,
+    "updated_at": "2026-06-20T16:45:31Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "",
+    "id": "reddb-io/red-skills",
+    "language": "TypeScript",
+    "name": "reddb-io/red-skills",
+    "stars": 0,
+    "updated_at": "2026-06-20T16:45:31Z",
+    "url": "https://github.com/reddb-io/red-skills"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 8,
+    "updated_at": "2026-06-20T16:45:31Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "",
+    "id": "GiriDream/skillswap",
+    "language": "JavaScript",
+    "name": "GiriDream/skillswap",
+    "stars": 0,
+    "updated_at": "2026-06-20T16:45:30Z",
+    "url": "https://github.com/GiriDream/skillswap"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -59,7 +131,7 @@
     "language": "Python",
     "name": "fpl9000/ai-skills",
     "stars": 2,
-    "updated_at": "2026-06-20T16:44:45Z",
+    "updated_at": "2026-06-20T16:46:50Z",
     "url": "https://github.com/fpl9000/ai-skills"
   },
   {
@@ -149,7 +221,7 @@
     "language": "Python",
     "name": "emerose/skills",
     "stars": 0,
-    "updated_at": "2026-06-20T16:43:43Z",
+    "updated_at": "2026-06-20T16:45:38Z",
     "url": "https://github.com/emerose/skills"
   },
   {
@@ -306,15 +378,6 @@
     "url": "https://github.com/Andiedie/skills"
   },
   {
-    "description": "My clone repository",
-    "id": "Pranox-Ai/skills-copilot-codespaces-vscode",
-    "language": "\u2014",
-    "name": "Pranox-Ai/skills-copilot-codespaces-vscode",
-    "stars": 0,
-    "updated_at": "2026-06-20T16:40:29Z",
-    "url": "https://github.com/Pranox-Ai/skills-copilot-codespaces-vscode"
-  },
-  {
     "description": "",
     "id": "BBQ4ever/fable5-skills",
     "language": "\u2014",
@@ -403,15 +466,6 @@
     "stars": 0,
     "updated_at": "2026-06-20T16:39:19Z",
     "url": "https://github.com/Hemachandaranzz/skills-build-applications-w-copilot-agent-mode"
-  },
-  {
-    "description": "",
-    "id": "reddb-io/red-skills",
-    "language": "TypeScript",
-    "name": "reddb-io/red-skills",
-    "stars": 0,
-    "updated_at": "2026-06-20T16:44:20Z",
-    "url": "https://github.com/reddb-io/red-skills"
   },
   {
     "description": "Library Agent Skills",
@@ -729,24 +783,6 @@
     "url": "https://github.com/yerayyay-27/federated-skillshare"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 8,
-    "updated_at": "2026-06-20T16:30:30Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 5,
-    "updated_at": "2026-06-20T16:30:27Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Lifecycle Management for Agent Skills",
     "id": "smith-horn/skillsmith",
     "language": "TypeScript",
@@ -862,41 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-20T16:33:07Z",
     "url": "https://github.com/EunnyOye/skills-communicate-using-markdown"
-  },
-  {
-    "description": "",
-    "id": "Srltas/claude-skills",
-    "language": "Python",
-    "name": "Srltas/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-06-20T16:25:34Z",
-    "url": "https://github.com/Srltas/claude-skills"
-  },
-  {
-    "description": "AI-augmented development environment with Agent Skills for enterprise TYPO3 projects (Cursor IDE)",
-    "id": "dirnbauer/webconsulting-skills",
-    "language": "Shell",
-    "name": "dirnbauer/webconsulting-skills",
-    "stars": 32,
-    "updated_at": "2026-06-20T16:25:28Z",
-    "url": "https://github.com/dirnbauer/webconsulting-skills"
-  },
-  {
-    "description": "Exercise: GitHub Copilot Code Review",
-    "id": "SuryapriyaKumar05/skills-copilot-code-review",
-    "language": "JavaScript",
-    "name": "SuryapriyaKumar05/skills-copilot-code-review",
-    "stars": 0,
-    "updated_at": "2026-06-20T16:25:24Z",
-    "url": "https://github.com/SuryapriyaKumar05/skills-copilot-code-review"
-  },
-  {
-    "description": "",
-    "id": "Mrbaeksang/skills",
-    "language": "Shell",
-    "name": "Mrbaeksang/skills",
-    "stars": 0,
-    "updated_at": "2026-06-20T16:25:22Z",
-    "url": "https://github.com/Mrbaeksang/skills"
   }
 ]
