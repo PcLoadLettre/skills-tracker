@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-06-22 06:45 UTC
+> ⏰ Last updated: 2026-06-22 07:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,106 +42,106 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [NanoAgentCode/skills-manager](https://github.com/NanoAgentCode/skills-manager) | 0 | Python | 2026-06-22 | skills管理仓库 |
+| 1 | [mathieu0905/codex-skills](https://github.com/mathieu0905/codex-skills) | 0 | Python | 2026-06-22 | Collection of Codex skills for paper evaluation, article logic editing, and research workflows. |
 | 2 | [tomevault-io/skills-registry](https://github.com/tomevault-io/skills-registry) | 0 | — | 2026-06-22 | AI instruction files in SKILL.md format — indexed by Skills.sh and SkillsMP |
-| 3 | [WoSai/quanlaidian-quote-skills](https://github.com/WoSai/quanlaidian-quote-skills) | 2 | Python | 2026-06-22 |  AI 助手如OpenClaw等通过自然语言指令自动生成全来店SaaS报价单 |
-| 4 | [elastic/elastic-docs-skills](https://github.com/elastic/elastic-docs-skills) | 70 | Shell | 2026-06-22 | Instructions for code agents on how to author Elastic docs |
-| 5 | [Hibra999/Awesome-forecasting-skills](https://github.com/Hibra999/Awesome-forecasting-skills) | 0 | Python | 2026-06-22 | Skills for AI agents focused solely on forecasting using multiple Python libraries |
-| 6 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 6 | Python | 2026-06-22 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
-| 7 | [Oliyflemishspeaking560/threejs-game-skills](https://github.com/Oliyflemishspeaking560/threejs-game-skills) | 0 | Python | 2026-06-22 | Build browser games with automated Three.js skills for Codex and Claude Code to manage graphics, logic, assets, and buil |
-| 8 | [iRyantik/buy-side-research-skills](https://github.com/iRyantik/buy-side-research-skills) | 0 | Python | 2026-06-22 |  |
-| 9 | [antonyalfred/skills-getting-started-with-github-copilot](https://github.com/antonyalfred/skills-getting-started-with-github-copilot) | 0 | JavaScript | 2026-06-22 | Exercise: Get started using GitHub Copilot |
-| 10 | [Songhonglei/build-better-skills](https://github.com/Songhonglei/build-better-skills) | 1 | Python | 2026-06-22 | A suite of skills to build better skills — from creation through install, audit, release, regression testing, and sedime |
-| 11 | [EndUser123/cc-skills-sdlc](https://github.com/EndUser123/cc-skills-sdlc) | 0 | Python | 2026-06-22 |  |
-| 12 | [EndUser123/cc-skills-analysis](https://github.com/EndUser123/cc-skills-analysis) | 0 | Python | 2026-06-22 |  |
-| 13 | [appium/skills](https://github.com/appium/skills) | 9 | JavaScript | 2026-06-22 |  |
-| 14 | [Yugpat1835/awesome-copilot-cowork-skills](https://github.com/Yugpat1835/awesome-copilot-cowork-skills) | 2 | — | 2026-06-22 | Automate workflows in Microsoft 365 Copilot Cowork with a library of 15 portable skills and an executive review suite de |
-| 15 | [alongor666/alongor666-skills](https://github.com/alongor666/alongor666-skills) | 0 | Python | 2026-06-22 |  |
-| 16 | [rskonieczka/skills](https://github.com/rskonieczka/skills) | 0 | — | 2026-06-22 |  |
-| 17 | [ha850411/codex-analysis-skills](https://github.com/ha850411/codex-analysis-skills) | 0 | JavaScript | 2026-06-22 |  |
-| 18 | [Chang5990/ai-writing-skills-Promotional-copy-](https://github.com/Chang5990/ai-writing-skills-Promotional-copy-) | 0 | — | 2026-06-22 | Suitable for technical-themed content posted on website |
-| 19 | [P2P-IM/Public-skills-and-mcp](https://github.com/P2P-IM/Public-skills-and-mcp) | 0 | — | 2026-06-22 | skills and mcp |
-| 20 | [atik783505/skillswap-client](https://github.com/atik783505/skillswap-client) | 0 | JavaScript | 2026-06-22 |  |
-| 21 | [d043606-cmd/clinical-skills-room](https://github.com/d043606-cmd/clinical-skills-room) | 0 | HTML | 2026-06-22 |  |
-| 22 | [micrometeoric-eye978/academic-research-skills](https://github.com/micrometeoric-eye978/academic-research-skills) | 0 | — | 2026-06-22 | Automate academic literature search, retrieval, and management workflows for LLM agents using integrated research skills |
-| 23 | [whatagraph/whatagraph-skills](https://github.com/whatagraph/whatagraph-skills) | 0 | — | 2026-06-22 | Claude Skills to be used with Whatagraph MCP |
-| 24 | [AmorErwanc/ai-cli-skills](https://github.com/AmorErwanc/ai-cli-skills) | 0 | Shell | 2026-06-22 | 用 shell 函数 + Claude Code skill 包装 codex/claude CLI 的非交互调用,支持多 session 并行、按 name 续聊、worktree 隔离开发 |
-| 25 | [vikynofebriputra-creator/Orkas-Awesome-AgentSkills](https://github.com/vikynofebriputra-creator/Orkas-Awesome-AgentSkills) | 0 | Python | 2026-06-22 | Access a curated library of high-quality agents and modular skills for Orkas and other agent frameworks to accelerate ta |
-| 26 | [Yelbow/claude-skills](https://github.com/Yelbow/claude-skills) | 0 | — | 2026-06-22 | Skills, context files en prompts voor Claude |
-| 27 | [runkids/my-skills](https://github.com/runkids/my-skills) | 11 | Shell | 2026-06-22 | My AI agent skills — managed with skillshare |
-| 28 | [fffykhyf/gpgpu-skills](https://github.com/fffykhyf/gpgpu-skills) | 0 | — | 2026-06-22 |  |
-| 29 | [zolotarevandrew/courses_skillsmart](https://github.com/zolotarevandrew/courses_skillsmart) | 0 | C# | 2026-06-22 | skillsmart school courses |
-| 30 | [liu-qingyuan/skills-sync-lqy](https://github.com/liu-qingyuan/skills-sync-lqy) | 1 | Shell | 2026-06-22 | Private test repo for Skills Manager sync validation |
-| 31 | [cuixun925/skills-document](https://github.com/cuixun925/skills-document) | 0 | — | 2026-06-22 | 好用的skill和相关文档 |
-| 32 | [binance/binance-skills-hub](https://github.com/binance/binance-skills-hub) | 906 | Python | 2026-06-22 | Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto |
-| 33 | [lihuanshuai/backend-skills](https://github.com/lihuanshuai/backend-skills) | 1 | Python | 2026-06-22 |  |
-| 34 | [nananaman/skills](https://github.com/nananaman/skills) | 0 | Shell | 2026-06-22 | Personal agent skills distributed via APM |
-| 35 | [drippy-passport968/agent-supervision-skills](https://github.com/drippy-passport968/agent-supervision-skills) | 1 | PowerShell | 2026-06-22 | Delegate coding tasks to agents, collect artifacts, and verify results locally with standalone supervision skills for Cl |
-| 36 | [ariyantoa291/revops-skills](https://github.com/ariyantoa291/revops-skills) | 1 | Python | 2026-06-22 | Automate Salesforce RevOps tasks with Claude agent skills designed for pipeline hygiene, forecast reconciliation, and de |
-| 37 | [stevenengland/sten-agent-skills](https://github.com/stevenengland/sten-agent-skills) | 0 | Python | 2026-06-22 |  |
-| 38 | [domingoscunha168-hub/Skills](https://github.com/domingoscunha168-hub/Skills) | 1 | — | 2026-06-22 | This is a professional bibliography to help you understand my skills and areas of expertise. Therefore, the choice is yo |
-| 39 | [Raisecornfritter28/mvsd-ai-skills](https://github.com/Raisecornfritter28/mvsd-ai-skills) | 1 | — | 2026-06-22 | Deploy discrete, purpose-built AI skills for Claude and other SKILL.md-compatible agents to automate focused, recurrent  |
-| 40 | [quickchange-frog81/kdna-skills](https://github.com/quickchange-frog81/kdna-skills) | 0 | Shell | 2026-06-22 | Install KDNA domain cognition for AI agents to improve domain detection, axiom application, and response accuracy using  |
-| 41 | [visionary-dev653/codex-skills](https://github.com/visionary-dev653/codex-skills) | 0 | Python | 2026-06-22 | My manually added Codex skills |
-| 42 | [Maxivisual883/awesome-skills](https://github.com/Maxivisual883/awesome-skills) | 1 | — | 2026-06-22 |  |
-| 43 | [Gourdja/sonic-skills](https://github.com/Gourdja/sonic-skills) | 0 | Shell | 2026-06-22 | Review, debug, and implement audio software with this curated collection of Markdown skills designed for AI agents. |
-| 44 | [ansanloms/skills](https://github.com/ansanloms/skills) | 0 | TypeScript | 2026-06-22 |  |
-| 45 | [igrlebed/Rules-Skills](https://github.com/igrlebed/Rules-Skills) | 0 | Python | 2026-06-22 |  |
-| 46 | [do-whilefor/JaseSkills](https://github.com/do-whilefor/JaseSkills) | 0 | Python | 2026-06-22 |  Claude security skills, SecKB knowledge base, and a collection of JS auditing and authorization testing workflows. |
-| 47 | [lisxa5747/unreal-angelscript-skills](https://github.com/lisxa5747/unreal-angelscript-skills) | 0 | Shell | 2026-06-22 | Integrate structured AI skill sets into Unreal Engine AngelScript projects to improve coding accuracy and workflow effic |
-| 48 | [Alonza0314/agent-skills](https://github.com/Alonza0314/agent-skills) | 0 | Shell | 2026-06-22 |  |
-| 49 | [Zankusama/CSFN-skills](https://github.com/Zankusama/CSFN-skills) | 0 | — | 2026-06-22 | 蔡氏福宁skills |
-| 50 | [kashmirscien3399/skills](https://github.com/kashmirscien3399/skills) | 2 | Python | 2026-06-22 | Automate literature reviews with research skills for fetching arXiv papers, extracting technical details, and tracking c |
-| 51 | [illoshy315-spec/archive-oculus-skills](https://github.com/illoshy315-spec/archive-oculus-skills) | 0 | — | 2026-06-22 | Archive Oculus episode production skill for Claude Code |
-| 52 | [KarthikMariappanAspire/skills-integrate-mcp-with-copilot](https://github.com/KarthikMariappanAspire/skills-integrate-mcp-with-copilot) | 0 | JavaScript | 2026-06-22 | Exercise: Integrate Model Context Protocol with GitHub Copilot |
-| 53 | [ethan2737/jingyuan-skills](https://github.com/ethan2737/jingyuan-skills) | 0 | PowerShell | 2026-06-22 |  |
-| 54 | [nobodyonlyc/harness-skills](https://github.com/nobodyonlyc/harness-skills) | 0 | Shell | 2026-06-22 |  |
-| 55 | [ghj1976/ghj-skills](https://github.com/ghj1976/ghj-skills) | 0 | Python | 2026-06-22 |  |
-| 56 | [S-PARK-Y/ai-coaching-skills](https://github.com/S-PARK-Y/ai-coaching-skills) | 1 | — | 2026-06-22 |  |
-| 57 | [Hebrewlessonmobility409/papers_skills](https://github.com/Hebrewlessonmobility409/papers_skills) | 1 | — | 2026-06-22 | Streamline academic paper reading, reproduction, and innovation discovery with this integrated research workflow skill f |
-| 58 | [puzzle/skills](https://github.com/puzzle/skills) | 80 | Ruby | 2026-06-22 | Open source skill management web application |
-| 59 | [hiydavid/databricks-agent-skills](https://github.com/hiydavid/databricks-agent-skills) | 1 | Python | 2026-06-22 | Agent Skills for Databricks features and platform. |
-| 60 | [Stanleyebe/skills-scale-institutional-knowledge-using-copilot-spaces](https://github.com/Stanleyebe/skills-scale-institutional-knowledge-using-copilot-spaces) | 0 | — | 2026-06-22 | Exercise: Scale Institutional Knowledge Using Copilot Spaces |
-| 61 | [Immoderate-humulin783/odoo-skills](https://github.com/Immoderate-humulin783/odoo-skills) | 1 | JavaScript | 2026-06-22 | Automate Odoo development tasks including addon reviews, OCA migrations, test writing, and OWL frontend changes. |
-| 62 | [mathieu0905/codex-skills](https://github.com/mathieu0905/codex-skills) | 0 | Python | 2026-06-22 | Collection of Codex skills for paper evaluation, article logic editing, and research workflows. |
-| 63 | [batterfried-philosophy172/Agent-Startup-Skills](https://github.com/batterfried-philosophy172/Agent-Startup-Skills) | 0 | JavaScript | 2026-06-22 | Build SaaS products using an 8-phase AI agent pipeline with mandatory approval gates for Antigravity, Claude Code, and C |
-| 64 | [Overhand-cool515/loader-openclaw-skills](https://github.com/Overhand-cool515/loader-openclaw-skills) | 1 | — | 2026-06-22 | Automate the installation and management of OpenClaw skills without manual configuration. |
-| 65 | [lapsapthong-16/my-skills](https://github.com/lapsapthong-16/my-skills) | 1 | — | 2026-06-22 | Reusable AI coding skills and tool setup notes for Claude Code, Codex, and agentic projects. |
-| 66 | [smyx-sunjinhui/smyx-open-claw-skills](https://github.com/smyx-sunjinhui/smyx-open-claw-skills) | 0 | Python | 2026-06-22 | 生命涌现技能库 |
-| 67 | [pengfit/cjt-skills](https://github.com/pengfit/cjt-skills) | 0 | Python | 2026-06-22 | 采价通 |
-| 68 | [wangminle/skills-task-list-initialization](https://github.com/wangminle/skills-task-list-initialization) | 0 | Python | 2026-06-22 | Create a task list for the current project and standardize the existing list into a reference format. |
-| 69 | [SwaroopArya65/Nextnix-Learn-Tech.-Build-Real-Skills](https://github.com/SwaroopArya65/Nextnix-Learn-Tech.-Build-Real-Skills) | 0 | JavaScript | 2026-06-22 |  |
-| 70 | [UiPath/skills](https://github.com/UiPath/skills) | 111 | Python | 2026-06-22 | This is a repository of skills for interfacing UiPath capabilities to external developers. |
-| 71 | [chirag6653/visual-skills](https://github.com/chirag6653/visual-skills) | 2 | — | 2026-06-22 | Generate production-grade prompts for image and video AI models tailored to your specific creative tasks and syntax requ |
-| 72 | [Lasting-mademoiselle566/better-than-claude-skills](https://github.com/Lasting-mademoiselle566/better-than-claude-skills) | 2 | — | 2026-06-22 | Expand your LLM and AI agent capabilities with this collection of modular tools and specialized skills. |
-| 73 | [ly87ing/agent-skills](https://github.com/ly87ing/agent-skills) | 0 | Python | 2026-06-22 |  |
-| 74 | [roniesthetic654/my-claude-skills](https://github.com/roniesthetic654/my-claude-skills) | 0 | — | 2026-06-22 | Extend Claude functionality with this collection of custom skills for direct installation via the Claude settings menu. |
-| 75 | [Suryapra1ap/Elevance-skills-project-](https://github.com/Suryapra1ap/Elevance-skills-project-) | 0 | C++ | 2026-06-22 | A production-grade, asynchronous ESP32 4-Cell Battery Management System (BMS) featuring a multi-kernel safety controller |
-| 76 | [realchendahuang/dahuang-skills](https://github.com/realchendahuang/dahuang-skills) | 0 | — | 2026-06-22 |  |
-| 77 | [alexanderpino/skills](https://github.com/alexanderpino/skills) | 1 | Python | 2026-06-22 |  |
-| 78 | [aarontianqx/skills](https://github.com/aarontianqx/skills) | 0 | — | 2026-06-22 | my skills |
-| 79 | [mygithub05253/universal-ai-skills](https://github.com/mygithub05253/universal-ai-skills) | 1 | JavaScript | 2026-06-22 | PromptOps for Student Developers |
-| 80 | [Bubblefish888/skills](https://github.com/Bubblefish888/skills) | 0 | Python | 2026-06-22 |  |
-| 81 | [flakey-caster542/superseo-skills](https://github.com/flakey-caster542/superseo-skills) | 1 | — | 2026-06-22 | Automate SEO audits, briefs, and content strategy using eleven production-tested Claude skills that perform independent  |
-| 82 | [navelphotochemistry3605/VRCUdonSkills-for-Codex](https://github.com/navelphotochemistry3605/VRCUdonSkills-for-Codex) | 0 | C# | 2026-06-22 |  |
-| 83 | [Amitesh-Kr-Kaushik/skills-github-pages](https://github.com/Amitesh-Kr-Kaushik/skills-github-pages) | 0 | — | 2026-06-22 | Exercise: Create a site or blog from your GitHub repositories with GitHub Pages |
-| 84 | [ChristelVH/skills-getting-started-with-github-copilot](https://github.com/ChristelVH/skills-getting-started-with-github-copilot) | 0 | JavaScript | 2026-06-22 | Exercise: Get started using GitHub Copilot |
-| 85 | [1044197988/ht-skills](https://github.com/1044197988/ht-skills) | 0 | Python | 2026-06-22 | 灏天文库 Skill 客户端，供 OpenClaw 使用。 |
-| 86 | [albertaga27/skills-build-applications-w-copilot-agent-mode](https://github.com/albertaga27/skills-build-applications-w-copilot-agent-mode) | 0 | JavaScript | 2026-06-22 | Exercise: Build applications with GitHub Copilot agent mode |
-| 87 | [Boppanasathvik1/skills-build-applications-w-copilot-agent-mode](https://github.com/Boppanasathvik1/skills-build-applications-w-copilot-agent-mode) | 0 | Shell | 2026-06-22 | Exercise: Build applications with GitHub Copilot agent mode |
-| 88 | [Choppy-superfamilymuscoidea9021/buffett-skills](https://github.com/Choppy-superfamilymuscoidea9021/buffett-skills) | 1 | — | 2026-06-22 | Apply Warren Buffett’s investment framework to your financial analysis using this collection of Claude Code skills. |
-| 89 | [mercedesperezcapilla-gif/claude-skills](https://github.com/mercedesperezcapilla-gif/claude-skills) | 0 | — | 2026-06-22 | Free Claude skills for AI automation and FS governance — built cross-industry for automation with governance for highly  |
-| 90 | [Simplex-june29108/saas-api-skills](https://github.com/Simplex-june29108/saas-api-skills) | 0 | — | 2026-06-22 | Connect AI agents to over 340 SaaS platforms with this curated collection of API integration skills. |
-| 91 | [angeliuu/awesome-distillhub-persona-skills](https://github.com/angeliuu/awesome-distillhub-persona-skills) | 0 | — | 2026-06-22 | Collect and share persona skill files to run digital mind models within the DistillHub platform. |
-| 92 | [Borjani1577/claude-office-skills](https://github.com/Borjani1577/claude-office-skills) | 0 | Python | 2026-06-22 | Import Excel and PowerPoint skills into Claude Code to automate spreadsheets and presentations using local filesystem ac |
-| 93 | [hslee-cmyk/chip-design-skills](https://github.com/hslee-cmyk/chip-design-skills) | 0 | Python | 2026-06-22 |  |
-| 94 | [sublimate-toe9304/craftcms-claude-skills](https://github.com/sublimate-toe9304/craftcms-claude-skills) | 1 | Shell | 2026-06-22 | Automate Craft CMS 5 development with production-ready Claude Code skills, custom agents, and project templates for plug |
-| 95 | [urbanlegendshoestringfungus3210/human-distillation-skills](https://github.com/urbanlegendshoestringfungus3210/human-distillation-skills) | 0 | — | 2026-06-22 | Extract personality traits, decision frameworks, and communication patterns from digital data to build human-like AI mod |
-| 96 | [dressingcasewildcat6783/claude-code-skills](https://github.com/dressingcasewildcat6783/claude-code-skills) | 0 | — | 2026-06-22 | Automate the software development lifecycle for Claude Code with standardized workflows, project scaffolding, session ma |
-| 97 | [Valeneunemployable6106/awesome-persona-skills](https://github.com/Valeneunemployable6106/awesome-persona-skills) | 1 | PowerShell | 2026-06-22 | Curate open source Chinese persona, character, and agent skill projects for AI identity development. |
-| 98 | [anjj/GoSkills](https://github.com/anjj/GoSkills) | 1 | TypeScript | 2026-06-22 | Skilljar concept Clone under MIT License for Business to use for their internal Academys |
-| 99 | [dmdmwshr/custom-skills](https://github.com/dmdmwshr/custom-skills) | 0 | Python | 2026-06-22 | Personal cc-switch custom skills |
-| 100 | [Insolvent-pyrene754/claude-code-server-side-swift-skills](https://github.com/Insolvent-pyrene754/claude-code-server-side-swift-skills) | 0 | — | 2026-06-22 | Accelerate server-side Swift development and Xcode Cloud automation with curated knowledge files for Claude Code. |
+| 3 | [PYDuquesnoy/iris-interop-skills](https://github.com/PYDuquesnoy/iris-interop-skills) | 0 | ObjectScript | 2026-06-22 | 17 Claude Code skills for building InterSystems IRIS For Health Interoperability productions, plus a vendor-neutral best |
+| 4 | [linny006/trending-claude-skills](https://github.com/linny006/trending-claude-skills) | 6 | Python | 2026-06-22 | Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes |
+| 5 | [Albus-White/spark-to-paper-skills](https://github.com/Albus-White/spark-to-paper-skills) | 0 | Python | 2026-06-22 |  |
+| 6 | [ChronoAIProject/ornn-skills](https://github.com/ChronoAIProject/ornn-skills) | 0 | JavaScript | 2026-06-22 | The repo for all system/public ornn skills |
+| 7 | [S-PARK-Y/ai-coaching-skills](https://github.com/S-PARK-Y/ai-coaching-skills) | 1 | — | 2026-06-22 |  |
+| 8 | [shrivathsan04/skills-resolve-merge-conflicts](https://github.com/shrivathsan04/skills-resolve-merge-conflicts) | 0 | — | 2026-06-22 | Exercise: Resolve Merge Conflicts |
+| 9 | [costrict-plugins-repo/github-trending-obsidian-skills](https://github.com/costrict-plugins-repo/github-trending-obsidian-skills) | 0 | — | 2026-06-22 | costrict-plugins mirror of github-trending-obsidian-skills (auto-generated, do not edit) |
+| 10 | [hungv47/meta-skills](https://github.com/hungv47/meta-skills) | 12 | TypeScript | 2026-06-22 | Turn your coding agent into a full product team — composable skills across research, marketing, product, and process. On |
+| 11 | [vc7ttv45yr-coder/grok-skills](https://github.com/vc7ttv45yr-coder/grok-skills) | 0 | — | 2026-06-22 | Custom Grok skills for iPad music production, animation, and more - by Lil FullHanz |
+| 12 | [costrict-plugins-repo/github-trending-fullstack-dev-skills](https://github.com/costrict-plugins-repo/github-trending-fullstack-dev-skills) | 0 | Python | 2026-06-22 | costrict-plugins mirror of github-trending-fullstack-dev-skills (auto-generated, do not edit) |
+| 13 | [Songhonglei/build-better-skills](https://github.com/Songhonglei/build-better-skills) | 1 | Python | 2026-06-22 | A suite of skills to build better skills — from creation through install, audit, release, regression testing, and sedime |
+| 14 | [Small-snake/android-code-review-skills](https://github.com/Small-snake/android-code-review-skills) | 1 | Shell | 2026-06-22 | Diff-first Android code review skills for AI coding agents. |
+| 15 | [costrict-plugins-repo/github-trending-executive-assistant-skills](https://github.com/costrict-plugins-repo/github-trending-executive-assistant-skills) | 0 | — | 2026-06-22 | costrict-plugins mirror of github-trending-executive-assistant-skills (auto-generated, do not edit) |
+| 16 | [wix/skills](https://github.com/wix/skills) | 17 | TypeScript | 2026-06-22 | Wix Skills |
+| 17 | [duvoai/skills](https://github.com/duvoai/skills) | 4 | — | 2026-06-22 | Official agent skills for Duvo — automate operations with AI agents across your existing systems |
+| 18 | [anjj/GoSkills](https://github.com/anjj/GoSkills) | 1 | TypeScript | 2026-06-22 | Skilljar concept Clone under MIT License for Business to use for their internal Academys |
+| 19 | [fightZy/simple-skills](https://github.com/fightZy/simple-skills) | 1 | Python | 2026-06-22 | Reusable AI agent skills for idea validation, startup research, and workspace memory. Install with npx skills add. |
+| 20 | [jaaemperador-prog/GE-IT-Skills-portfolio](https://github.com/jaaemperador-prog/GE-IT-Skills-portfolio) | 0 | — | 2026-06-22 |  |
+| 21 | [costrict-plugins-repo/github-trending-cli-power-skills](https://github.com/costrict-plugins-repo/github-trending-cli-power-skills) | 0 | — | 2026-06-22 | costrict-plugins mirror of github-trending-cli-power-skills (auto-generated, do not edit) |
+| 22 | [costrict-plugins-repo/github-trending-claude-workflow-skills](https://github.com/costrict-plugins-repo/github-trending-claude-workflow-skills) | 0 | — | 2026-06-22 | costrict-plugins mirror of github-trending-claude-workflow-skills (auto-generated, do not edit) |
+| 23 | [nervlin4444/ai.skills.incubation](https://github.com/nervlin4444/ai.skills.incubation) | 0 | Python | 2026-06-22 | ai.skills.incubation |
+| 24 | [wangminle/skills-task-list-initialization](https://github.com/wangminle/skills-task-list-initialization) | 0 | Python | 2026-06-22 | Create a task list for the current project and standardize the existing list into a reference format. |
+| 25 | [jarry126/my-skills-plugin](https://github.com/jarry126/my-skills-plugin) | 0 | Python | 2026-06-22 | 我的skills插件 |
+| 26 | [tanqiu0328/my-skills](https://github.com/tanqiu0328/my-skills) | 0 | — | 2026-06-22 |  |
+| 27 | [costrict-plugins-repo/github-trending-azure-skills](https://github.com/costrict-plugins-repo/github-trending-azure-skills) | 0 | Python | 2026-06-22 | costrict-plugins mirror of github-trending-azure-skills (auto-generated, do not edit) |
+| 28 | [mtschoen/skills-dev](https://github.com/mtschoen/skills-dev) | 1 | Python | 2026-06-22 | Index of Claude Code skill submodules |
+| 29 | [Hibra999/Awesome-forecasting-skills](https://github.com/Hibra999/Awesome-forecasting-skills) | 0 | Python | 2026-06-22 | Skills for AI agents focused solely on forecasting using multiple Python libraries |
+| 30 | [macductan/ai-skills](https://github.com/macductan/ai-skills) | 0 | Python | 2026-06-22 |  |
+| 31 | [illoshy315-spec/archive-oculus-skills](https://github.com/illoshy315-spec/archive-oculus-skills) | 0 | — | 2026-06-22 | Archive Oculus episode production skill for Claude Code |
+| 32 | [mtschoen/skills-using-a-debugger](https://github.com/mtschoen/skills-using-a-debugger) | 0 | Python | 2026-06-22 |  |
+| 33 | [costrict-plugins-repo/github-trending-all-skills](https://github.com/costrict-plugins-repo/github-trending-all-skills) | 0 | Python | 2026-06-22 | costrict-plugins mirror of github-trending-all-skills (auto-generated, do not edit) |
+| 34 | [Raymond711xl/marketing-concept-skills](https://github.com/Raymond711xl/marketing-concept-skills) | 0 | Python | 2026-06-22 | AI marketing skills, prompts, and small tools for Codex workflows. |
+| 35 | [costrict-plugins-repo/github-trending-agent-skills-toolkit](https://github.com/costrict-plugins-repo/github-trending-agent-skills-toolkit) | 0 | Python | 2026-06-22 | costrict-plugins mirror of github-trending-agent-skills-toolkit (auto-generated, do not edit) |
+| 36 | [costrict-plugins-repo/github-trending-agent-skills-mcp](https://github.com/costrict-plugins-repo/github-trending-agent-skills-mcp) | 0 | TypeScript | 2026-06-22 | costrict-plugins mirror of github-trending-agent-skills-mcp (auto-generated, do not edit) |
+| 37 | [aouellets/crossfit-claude-skills](https://github.com/aouellets/crossfit-claude-skills) | 0 | PLpgSQL | 2026-06-22 | Standalone open-source CrossFit / functional-fitness coaching skills for the Skill Me catalog. Not affiliated with Cross |
+| 38 | [costrict-plugins-repo/forrestchang-karpathy-skills-andrej-karpathy-skills](https://github.com/costrict-plugins-repo/forrestchang-karpathy-skills-andrej-karpathy-skills) | 0 | — | 2026-06-22 | costrict-plugins mirror of forrestchang-karpathy-skills-andrej-karpathy-skills (auto-generated, do not edit) |
+| 39 | [costrict-plugins-repo/deanpeters-pm-skills-workshop-facilitation](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-workshop-facilitation) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-workshop-facilitation (auto-generated, do not edit) |
+| 40 | [costrict-plugins-repo/deanpeters-pm-skills-vp-cpo-readiness-advisor](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-vp-cpo-readiness-advisor) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-vp-cpo-readiness-advisor (auto-generated, do not edit) |
+| 41 | [costrict-plugins-repo/deanpeters-pm-skills-user-story](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-user-story) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-user-story (auto-generated, do not edit) |
+| 42 | [costrict-plugins-repo/deanpeters-pm-skills-user-story-mapping-workshop](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-user-story-mapping-workshop) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-user-story-mapping-workshop (auto-generated, do not edit) |
+| 43 | [costrict-plugins-repo/deanpeters-pm-skills-user-story-mapping](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-user-story-mapping) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-user-story-mapping (auto-generated, do not edit) |
+| 44 | [costrict-plugins-repo/deanpeters-pm-skills-user-story-splitting](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-user-story-splitting) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-user-story-splitting (auto-generated, do not edit) |
+| 45 | [costrict-plugins-repo/deanpeters-pm-skills-skill-authoring-workflow](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-skill-authoring-workflow) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-skill-authoring-workflow (auto-generated, do not edit) |
+| 46 | [costrict-plugins-repo/deanpeters-pm-skills-storyboard](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-storyboard) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-storyboard (auto-generated, do not edit) |
+| 47 | [costrict-plugins-repo/deanpeters-pm-skills-tam-sam-som-calculator](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-tam-sam-som-calculator) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-tam-sam-som-calculator (auto-generated, do not edit) |
+| 48 | [costrict-plugins-repo/deanpeters-pm-skills-saas-economics-efficiency-metrics](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-saas-economics-efficiency-metrics) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-saas-economics-efficiency-metrics (auto-generated, do not edit) |
+| 49 | [costrict-plugins-repo/deanpeters-pm-skills-saas-revenue-growth-metrics](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-saas-revenue-growth-metrics) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-saas-revenue-growth-metrics (auto-generated, do not edit) |
+| 50 | [costrict-plugins-repo/deanpeters-pm-skills-proto-persona](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-proto-persona) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-proto-persona (auto-generated, do not edit) |
+| 51 | [costrict-plugins-repo/deanpeters-pm-skills-recommendation-canvas](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-recommendation-canvas) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-recommendation-canvas (auto-generated, do not edit) |
+| 52 | [costrict-plugins-repo/deanpeters-pm-skills-roadmap-planning](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-roadmap-planning) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-roadmap-planning (auto-generated, do not edit) |
+| 53 | [costrict-plugins-repo/deanpeters-pm-skills-product-sense-interview-answer](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-product-sense-interview-answer) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-product-sense-interview-answer (auto-generated, do not edit) |
+| 54 | [costrict-plugins-repo/deanpeters-pm-skills-product-strategy-session](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-product-strategy-session) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-product-strategy-session (auto-generated, do not edit) |
+| 55 | [costrict-plugins-repo/deanpeters-pm-skills-prioritization-advisor](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-prioritization-advisor) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-prioritization-advisor (auto-generated, do not edit) |
+| 56 | [costrict-plugins-repo/deanpeters-pm-skills-problem-statement](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-problem-statement) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-problem-statement (auto-generated, do not edit) |
+| 57 | [costrict-plugins-repo/deanpeters-pm-skills-problem-framing-canvas](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-problem-framing-canvas) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-problem-framing-canvas (auto-generated, do not edit) |
+| 58 | [costrict-plugins-repo/deanpeters-pm-skills-press-release](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-press-release) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-press-release (auto-generated, do not edit) |
+| 59 | [fotor-ai/fotor-skills](https://github.com/fotor-ai/fotor-skills) | 9 | Python | 2026-06-22 | Fotor Skills for OpenClaw. |
+| 60 | [costrict-plugins-repo/deanpeters-pm-skills-positioning-workshop](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-positioning-workshop) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-positioning-workshop (auto-generated, do not edit) |
+| 61 | [costrict-plugins-repo/deanpeters-pm-skills-prd-development](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-prd-development) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-prd-development (auto-generated, do not edit) |
+| 62 | [costrict-plugins-repo/deanpeters-pm-skills-pol-probe](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-pol-probe) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-pol-probe (auto-generated, do not edit) |
+| 63 | [costrict-plugins-repo/deanpeters-pm-skills-positioning-statement](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-positioning-statement) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-positioning-statement (auto-generated, do not edit) |
+| 64 | [KonovalovAlexey/skills-expand-your-team-with-copilot](https://github.com/KonovalovAlexey/skills-expand-your-team-with-copilot) | 0 | JavaScript | 2026-06-22 | Exercise: Expand your team with GitHub Copilot cloud agent |
+| 65 | [costrict-plugins-repo/deanpeters-pm-skills-pol-probe-advisor](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-pol-probe-advisor) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-pol-probe-advisor (auto-generated, do not edit) |
+| 66 | [costrict-plugins-repo/deanpeters-pm-skills-opportunity-solution-tree](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-opportunity-solution-tree) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-opportunity-solution-tree (auto-generated, do not edit) |
+| 67 | [costrict-plugins-repo/deanpeters-pm-skills-pestel-analysis](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-pestel-analysis) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-pestel-analysis (auto-generated, do not edit) |
+| 68 | [costrict-plugins-repo/deanpeters-pm-skills-jobs-to-be-done](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-jobs-to-be-done) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-jobs-to-be-done (auto-generated, do not edit) |
+| 69 | [costrict-plugins-repo/deanpeters-pm-skills-finance-metrics-quickref](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-finance-metrics-quickref) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-finance-metrics-quickref (auto-generated, do not edit) |
+| 70 | [costrict-plugins-repo/deanpeters-pm-skills-lean-ux-canvas](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-lean-ux-canvas) | 1 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-lean-ux-canvas (auto-generated, do not edit) |
+| 71 | [costrict-plugins-repo/deanpeters-pm-skills-finance-based-pricing-advisor](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-finance-based-pricing-advisor) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-finance-based-pricing-advisor (auto-generated, do not edit) |
+| 72 | [costrict-plugins-repo/deanpeters-pm-skills-epic-hypothesis](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-epic-hypothesis) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-epic-hypothesis (auto-generated, do not edit) |
+| 73 | [costrict-plugins-repo/deanpeters-pm-skills-executive-onboarding-playbook](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-executive-onboarding-playbook) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-executive-onboarding-playbook (auto-generated, do not edit) |
+| 74 | [costrict-plugins-repo/deanpeters-pm-skills-feature-investment-advisor](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-feature-investment-advisor) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-feature-investment-advisor (auto-generated, do not edit) |
+| 75 | [costrict-plugins-repo/deanpeters-pm-skills-epic-breakdown-advisor](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-epic-breakdown-advisor) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-epic-breakdown-advisor (auto-generated, do not edit) |
+| 76 | [costrict-plugins-repo/deanpeters-pm-skills-eol-message](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-eol-message) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-eol-message (auto-generated, do not edit) |
+| 77 | [costrict-plugins-repo/deanpeters-pm-skills-director-readiness-advisor](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-director-readiness-advisor) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-director-readiness-advisor (auto-generated, do not edit) |
+| 78 | [costrict-plugins-repo/deanpeters-pm-skills-discovery-interview-prep](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-discovery-interview-prep) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-discovery-interview-prep (auto-generated, do not edit) |
+| 79 | [costrict-plugins-repo/deanpeters-pm-skills-discovery-process](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-discovery-process) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-discovery-process (auto-generated, do not edit) |
+| 80 | [costrict-plugins-repo/deanpeters-pm-skills-customer-journey-map](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-customer-journey-map) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-customer-journey-map (auto-generated, do not edit) |
+| 81 | [costrict-plugins-repo/deanpeters-pm-skills-customer-journey-mapping-workshop](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-customer-journey-mapping-workshop) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-customer-journey-mapping-workshop (auto-generated, do not edit) |
+| 82 | [costrict-plugins-repo/deanpeters-pm-skills-company-research](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-company-research) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-company-research (auto-generated, do not edit) |
+| 83 | [costrict-plugins-repo/deanpeters-pm-skills-context-engineering-advisor](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-context-engineering-advisor) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-context-engineering-advisor (auto-generated, do not edit) |
+| 84 | [foxian/office-skills](https://github.com/foxian/office-skills) | 0 | Python | 2026-06-22 |  |
+| 85 | [costrict-plugins-repo/deanpeters-pm-skills-acquisition-channel-advisor](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-acquisition-channel-advisor) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-acquisition-channel-advisor (auto-generated, do not edit) |
+| 86 | [costrict-plugins-repo/deanpeters-pm-skills-ai-shaped-readiness-advisor](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-ai-shaped-readiness-advisor) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-ai-shaped-readiness-advisor (auto-generated, do not edit) |
+| 87 | [costrict-plugins-repo/deanpeters-pm-skills-altitude-horizon-framework](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-altitude-horizon-framework) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-altitude-horizon-framework (auto-generated, do not edit) |
+| 88 | [costrict-plugins-repo/deanpeters-pm-skills-business-health-diagnostic](https://github.com/costrict-plugins-repo/deanpeters-pm-skills-business-health-diagnostic) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of deanpeters-pm-skills-business-health-diagnostic (auto-generated, do not edit) |
+| 89 | [my-skills-app/cab-booking-site](https://github.com/my-skills-app/cab-booking-site) | 0 | TypeScript | 2026-06-22 |  |
+| 90 | [costrict-plugins-repo/czlonkowski-n8n-mcp-skills-n8n-mcp-skills](https://github.com/costrict-plugins-repo/czlonkowski-n8n-mcp-skills-n8n-mcp-skills) | 0 | Shell | 2026-06-22 | costrict-plugins mirror of czlonkowski-n8n-mcp-skills-n8n-mcp-skills (auto-generated, do not edit) |
+| 91 | [ronsun/MoreNet.Skills](https://github.com/ronsun/MoreNet.Skills) | 0 | Batchfile | 2026-06-22 |  |
+| 92 | [costrict-plugins-repo/coreyhaines31-marketingskills-marketing-skills](https://github.com/costrict-plugins-repo/coreyhaines31-marketingskills-marketing-skills) | 0 | JavaScript | 2026-06-22 | costrict-plugins mirror of coreyhaines31-marketingskills-marketing-skills (auto-generated, do not edit) |
+| 93 | [costrict-plugins-repo/antvis-antv-infographic-antv-infographic-skills](https://github.com/costrict-plugins-repo/antvis-antv-infographic-antv-infographic-skills) | 0 | TypeScript | 2026-06-22 | costrict-plugins mirror of antvis-antv-infographic-antv-infographic-skills (auto-generated, do not edit) |
+| 94 | [costrict-plugins-repo/anthropics-knowledge-work-plugins-qodo-skills](https://github.com/costrict-plugins-repo/anthropics-knowledge-work-plugins-qodo-skills) | 0 | — | 2026-06-22 | costrict-plugins mirror of anthropics-knowledge-work-plugins-qodo-skills (auto-generated, do not edit) |
+| 95 | [costrict-plugins-repo/anthropics-knowledge-work-plugins-product-tracking-skills](https://github.com/costrict-plugins-repo/anthropics-knowledge-work-plugins-product-tracking-skills) | 0 | — | 2026-06-22 | costrict-plugins mirror of anthropics-knowledge-work-plugins-product-tracking-skills (auto-generated, do not edit) |
+| 96 | [MdHadiuzzaman0/SkillSwap-Server-Side](https://github.com/MdHadiuzzaman0/SkillSwap-Server-Side) | 0 | JavaScript | 2026-06-22 |  |
+| 97 | [alanfrancis442/agent-skills](https://github.com/alanfrancis442/agent-skills) | 0 | — | 2026-06-22 | A repo for my own one custom agent skills |
+| 98 | [OsekMa/reddit-blog-skills](https://github.com/OsekMa/reddit-blog-skills) | 0 | — | 2026-06-22 |  |
+| 99 | [Zhangs-11/zs-skills](https://github.com/Zhangs-11/zs-skills) | 0 | Python | 2026-06-22 | Kakarot的个人Skill合集 |
+| 100 | [mahendra-shinde/skills-hello-github-2](https://github.com/mahendra-shinde/skills-hello-github-2) | 0 | — | 2026-06-22 | Exercise: Create and run a GitHub Actions Workflow |
 <!-- TRACKER_TABLE_END -->
 
 ---
