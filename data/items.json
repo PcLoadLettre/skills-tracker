@@ -1,12 +1,12 @@
 [
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 6,
-    "updated_at": "2026-06-23T20:30:16Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
+    "description": "Zinan's operational skills for AI agent orchestration",
+    "id": "xiangyazi24/zinan-skills",
+    "language": "\u2014",
+    "name": "xiangyazi24/zinan-skills",
+    "stars": 0,
+    "updated_at": "2026-06-23T20:30:39Z",
+    "url": "https://github.com/xiangyazi24/zinan-skills"
   },
   {
     "description": "My clone repository",
@@ -14,8 +14,62 @@
     "language": "\u2014",
     "name": "EstalynD/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-06-23T20:30:07Z",
+    "updated_at": "2026-06-23T20:30:35Z",
     "url": "https://github.com/EstalynD/skills-introduction-to-github"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 8,
+    "updated_at": "2026-06-23T20:30:33Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Plug-and-play skills for Agents that give actionable steps, tool integrations, and verifiable outputs. Includes a sandbo",
+    "id": "rondomondo/agent-skills-beta",
+    "language": "HTML",
+    "name": "rondomondo/agent-skills-beta",
+    "stars": 0,
+    "updated_at": "2026-06-23T20:30:33Z",
+    "url": "https://github.com/rondomondo/agent-skills-beta"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 5,
+    "updated_at": "2026-06-23T20:30:30Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "OPAL AI Agent Skills Collection  (Skills.md Compliant)",
+    "id": "OpenLinkSoftware/ai-agent-skills",
+    "language": "HTML",
+    "name": "OpenLinkSoftware/ai-agent-skills",
+    "stars": 23,
+    "updated_at": "2026-06-23T20:30:22Z",
+    "url": "https://github.com/OpenLinkSoftware/ai-agent-skills"
+  },
+  {
+    "description": "Collection of my agent skills",
+    "id": "Ionnia/agent-skills",
+    "language": "HTML",
+    "name": "Ionnia/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-06-23T20:30:19Z",
+    "url": "https://github.com/Ionnia/agent-skills"
+  },
+  {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 6,
+    "updated_at": "2026-06-23T20:30:16Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
     "description": "",
@@ -61,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-06-23T20:29:23Z",
     "url": "https://github.com/iqbal-codes/labq-skills"
+  },
+  {
+    "description": "AI agent skills for legal and software engineering workflows designed for Claude, OpenAI Codex, and enterprise AI system",
+    "id": "carlditzler/AI-Skills",
+    "language": "Python",
+    "name": "carlditzler/AI-Skills",
+    "stars": 2,
+    "updated_at": "2026-06-23T20:29:10Z",
+    "url": "https://github.com/carlditzler/AI-Skills"
   },
   {
     "description": "Exercise: Communicate using Markdown",
@@ -797,7 +860,7 @@
     "language": "\u2014",
     "name": "hbecker97/skills-communicate-using-markdown",
     "stars": 0,
-    "updated_at": "2026-06-23T20:28:21Z",
+    "updated_at": "2026-06-23T20:30:31Z",
     "url": "https://github.com/hbecker97/skills-communicate-using-markdown"
   },
   {
@@ -835,68 +898,5 @@
     "stars": 8,
     "updated_at": "2026-06-23T20:21:39Z",
     "url": "https://github.com/justinqwerty/design-skills"
-  },
-  {
-    "description": "Power DingTalk automation with curated Wukong agent skills for office work, travel help, and professional document proce",
-    "id": "duffiewiccan103/dingtalk-wukong-skills",
-    "language": "Python",
-    "name": "duffiewiccan103/dingtalk-wukong-skills",
-    "stars": 0,
-    "updated_at": "2026-06-23T20:21:13Z",
-    "url": "https://github.com/duffiewiccan103/dingtalk-wukong-skills"
-  },
-  {
-    "description": "Shaped skills generated from third-party GitHub repos",
-    "id": "socialistic/shaped-skills",
-    "language": "\u2014",
-    "name": "socialistic/shaped-skills",
-    "stars": 0,
-    "updated_at": "2026-06-23T20:21:01Z",
-    "url": "https://github.com/socialistic/shaped-skills"
-  },
-  {
-    "description": "Organize real academic research workflows with Claude Code skills for literature tracing, source verification, and bilin",
-    "id": "gretamutualist474/academic-skills",
-    "language": "\u2014",
-    "name": "gretamutualist474/academic-skills",
-    "stars": 0,
-    "updated_at": "2026-06-23T20:21:01Z",
-    "url": "https://github.com/gretamutualist474/academic-skills"
-  },
-  {
-    "description": "Check iOS and macOS projects before submission to catch App Store review issues and reduce rejection risk",
-    "id": "facultymemberunwieldiness454/app-store-preflight-skills",
-    "language": "\u2014",
-    "name": "facultymemberunwieldiness454/app-store-preflight-skills",
-    "stars": 0,
-    "updated_at": "2026-06-23T20:21:01Z",
-    "url": "https://github.com/facultymemberunwieldiness454/app-store-preflight-skills"
-  },
-  {
-    "description": "",
-    "id": "joseLPaulino/claude-skills",
-    "language": "JavaScript",
-    "name": "joseLPaulino/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-06-23T20:20:52Z",
-    "url": "https://github.com/joseLPaulino/claude-skills"
-  },
-  {
-    "description": "Build and share AI coding skills for agents with practical tools, clear docs, and easy extension",
-    "id": "Smart-barley681/skills",
-    "language": "Python",
-    "name": "Smart-barley681/skills",
-    "stars": 0,
-    "updated_at": "2026-06-23T20:20:47Z",
-    "url": "https://github.com/Smart-barley681/skills"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "jonbondash-xebia/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "jonbondash-xebia/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-06-23T20:20:46Z",
-    "url": "https://github.com/jonbondash-xebia/skills-introduction-to-github"
   }
 ]
