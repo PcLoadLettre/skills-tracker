@@ -1,12 +1,66 @@
 [
   {
+    "description": "Exercise: Communicate using Markdown",
+    "id": "shirleyylwu/skills-communicate-using-markdown",
+    "language": "\u2014",
+    "name": "shirleyylwu/skills-communicate-using-markdown",
+    "stars": 0,
+    "updated_at": "2026-06-24T23:46:27Z",
+    "url": "https://github.com/shirleyylwu/skills-communicate-using-markdown"
+  },
+  {
     "description": "AI instruction files in SKILL.md format \u2014 indexed by Skills.sh and SkillsMP",
     "id": "tomevault-io/skills-registry",
     "language": "\u2014",
     "name": "tomevault-io/skills-registry",
     "stars": 0,
-    "updated_at": "2026-06-24T23:45:22Z",
+    "updated_at": "2026-06-24T23:46:26Z",
     "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
+    "description": "Collection of skills used to support my personal projects",
+    "id": "jacobeturpin/skills",
+    "language": "\u2014",
+    "name": "jacobeturpin/skills",
+    "stars": 0,
+    "updated_at": "2026-06-24T23:46:15Z",
+    "url": "https://github.com/jacobeturpin/skills"
+  },
+  {
+    "description": "AI\u9a71\u52a8\u91cf\u5316CTA\u7cfb\u7edf - \u9057\u4f20\u7f16\u7a0b\u56e0\u5b50\u6316\u6398",
+    "id": "CTAAgents/quant-skills",
+    "language": "Python",
+    "name": "CTAAgents/quant-skills",
+    "stars": 1,
+    "updated_at": "2026-06-24T23:45:46Z",
+    "url": "https://github.com/CTAAgents/quant-skills"
+  },
+  {
+    "description": "",
+    "id": "Maliha-Akter/skillswap-server",
+    "language": "JavaScript",
+    "name": "Maliha-Akter/skillswap-server",
+    "stars": 0,
+    "updated_at": "2026-06-24T23:45:41Z",
+    "url": "https://github.com/Maliha-Akter/skillswap-server"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 8,
+    "updated_at": "2026-06-24T23:45:30Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 6,
+    "updated_at": "2026-06-24T23:45:26Z",
+    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -54,15 +108,6 @@
     "url": "https://github.com/bog5d/claude-skills"
   },
   {
-    "description": "AI\u9a71\u52a8\u91cf\u5316CTA\u7cfb\u7edf - \u9057\u4f20\u7f16\u7a0b\u56e0\u5b50\u6316\u6398",
-    "id": "CTAAgents/quant-skills",
-    "language": "Python",
-    "name": "CTAAgents/quant-skills",
-    "stars": 1,
-    "updated_at": "2026-06-24T23:44:06Z",
-    "url": "https://github.com/CTAAgents/quant-skills"
-  },
-  {
     "description": "Exercise: Work with Workflow Artifacts",
     "id": "jorianom/skills-workflow-artifacts",
     "language": "JavaScript",
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T23:43:29Z",
     "url": "https://github.com/kiousing-ai/feed-batch-video-agent-skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 8,
-    "updated_at": "2026-06-24T23:43:27Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "Exercise: Introduction to GitHub",
@@ -585,15 +621,6 @@
     "url": "https://github.com/gagan114662/agent-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 6,
-    "updated_at": "2026-06-24T23:30:28Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Reusable skills for AI coding agents (Claude Code, Codex, Gemini CLI, Copilot CLI)",
     "id": "eworthing/agent-skills",
     "language": "Python",
@@ -871,32 +898,5 @@
     "stars": 1,
     "updated_at": "2026-06-24T23:17:37Z",
     "url": "https://github.com/Joeowo/Review-System-Skills"
-  },
-  {
-    "description": "Exercise: Code with Codespaces",
-    "id": "Fedegogo/skills-code-with-codespaces",
-    "language": "Python",
-    "name": "Fedegogo/skills-code-with-codespaces",
-    "stars": 0,
-    "updated_at": "2026-06-24T23:17:05Z",
-    "url": "https://github.com/Fedegogo/skills-code-with-codespaces"
-  },
-  {
-    "description": "Claude code skills i've seen as useful",
-    "id": "miko-kortelainen/skills",
-    "language": "\u2014",
-    "name": "miko-kortelainen/skills",
-    "stars": 0,
-    "updated_at": "2026-06-24T23:17:01Z",
-    "url": "https://github.com/miko-kortelainen/skills"
-  },
-  {
-    "description": "skills.md for codex, code, antigravity (model by gemini)",
-    "id": "akillness/jeo-skills",
-    "language": "Shell",
-    "name": "akillness/jeo-skills",
-    "stars": 30,
-    "updated_at": "2026-06-24T23:16:52Z",
-    "url": "https://github.com/akillness/jeo-skills"
   }
 ]
