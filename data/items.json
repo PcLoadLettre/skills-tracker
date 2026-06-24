@@ -1,5 +1,104 @@
 [
   {
+    "description": "AI instruction files in SKILL.md format \u2014 indexed by Skills.sh and SkillsMP",
+    "id": "tomevault-io/skills-registry",
+    "language": "\u2014",
+    "name": "tomevault-io/skills-registry",
+    "stars": 0,
+    "updated_at": "2026-06-24T21:03:00Z",
+    "url": "https://github.com/tomevault-io/skills-registry"
+  },
+  {
+    "description": "A repository for my Google Skills lab assignment.",
+    "id": "thomas-vc/google-skills-lab",
+    "language": "Python",
+    "name": "thomas-vc/google-skills-lab",
+    "stars": 0,
+    "updated_at": "2026-06-24T21:02:49Z",
+    "url": "https://github.com/thomas-vc/google-skills-lab"
+  },
+  {
+    "description": "Agent Skills for computational materials science -- numerical stability, solvers, meshing,   convergence, and simulation",
+    "id": "HeshamFS/materials-simulation-skills",
+    "language": "Python",
+    "name": "HeshamFS/materials-simulation-skills",
+    "stars": 46,
+    "updated_at": "2026-06-24T21:02:33Z",
+    "url": "https://github.com/HeshamFS/materials-simulation-skills"
+  },
+  {
+    "description": "Skills, build by myself for myself",
+    "id": "DRAPPIERQ/skills",
+    "language": "Python",
+    "name": "DRAPPIERQ/skills",
+    "stars": 0,
+    "updated_at": "2026-06-24T21:02:26Z",
+    "url": "https://github.com/DRAPPIERQ/skills"
+  },
+  {
+    "description": "",
+    "id": "Aturan/skills",
+    "language": "JavaScript",
+    "name": "Aturan/skills",
+    "stars": 0,
+    "updated_at": "2026-06-24T21:01:35Z",
+    "url": "https://github.com/Aturan/skills"
+  },
+  {
+    "description": "Skill audit tracker, changelogs, and reference docs for the Claude AI skill ecosystem \u2014 Wigglers Room project",
+    "id": "Cal-Starfur/claude-skills",
+    "language": "Python",
+    "name": "Cal-Starfur/claude-skills",
+    "stars": 0,
+    "updated_at": "2026-06-24T21:00:47Z",
+    "url": "https://github.com/Cal-Starfur/claude-skills"
+  },
+  {
+    "description": "List of custom agent skills",
+    "id": "pedromneto97/custom-skills",
+    "language": "Dart",
+    "name": "pedromneto97/custom-skills",
+    "stars": 2,
+    "updated_at": "2026-06-24T21:00:34Z",
+    "url": "https://github.com/pedromneto97/custom-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 6,
+    "updated_at": "2026-06-24T21:00:32Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 8,
+    "updated_at": "2026-06-24T21:00:31Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
+  },
+  {
+    "description": "",
+    "id": "osick/ctx.skills",
+    "language": "Python",
+    "name": "osick/ctx.skills",
+    "stars": 0,
+    "updated_at": "2026-06-24T21:00:29Z",
+    "url": "https://github.com/osick/ctx.skills"
+  },
+  {
+    "description": "Opinionated skills compatible with Claude code",
+    "id": "jessicaw9910/skills",
+    "language": "\u2014",
+    "name": "jessicaw9910/skills",
+    "stars": 0,
+    "updated_at": "2026-06-24T21:00:23Z",
+    "url": "https://github.com/jessicaw9910/skills"
+  },
+  {
     "description": "The repo for all system/public ornn skills",
     "id": "ChronoAIProject/ornn-skills",
     "language": "JavaScript",
@@ -18,13 +117,13 @@
     "url": "https://github.com/linny006/trending-claude-skills"
   },
   {
-    "description": "AI instruction files in SKILL.md format \u2014 indexed by Skills.sh and SkillsMP",
-    "id": "tomevault-io/skills-registry",
-    "language": "\u2014",
-    "name": "tomevault-io/skills-registry",
+    "description": "",
+    "id": "smartcrabai/skills",
+    "language": "Rust",
+    "name": "smartcrabai/skills",
     "stars": 0,
-    "updated_at": "2026-06-24T21:00:28Z",
-    "url": "https://github.com/tomevault-io/skills-registry"
+    "updated_at": "2026-06-24T21:00:13Z",
+    "url": "https://github.com/smartcrabai/skills"
   },
   {
     "description": "Spice Digital team skills \u2014 reporting, ops, campaigns, meetings, onboarding",
@@ -99,15 +198,6 @@
     "url": "https://github.com/lucasalencar/skills"
   },
   {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 8,
-    "updated_at": "2026-06-24T20:59:02Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
-  },
-  {
     "description": "",
     "id": "BuildDownAI/skills",
     "language": "Shell",
@@ -115,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-06-24T20:58:53Z",
     "url": "https://github.com/BuildDownAI/skills"
-  },
-  {
-    "description": "Skill audit tracker, changelogs, and reference docs for the Claude AI skill ecosystem \u2014 Wigglers Room project",
-    "id": "Cal-Starfur/claude-skills",
-    "language": "Python",
-    "name": "Cal-Starfur/claude-skills",
-    "stars": 0,
-    "updated_at": "2026-06-24T20:58:50Z",
-    "url": "https://github.com/Cal-Starfur/claude-skills"
   },
   {
     "description": "",
@@ -142,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T20:58:41Z",
     "url": "https://github.com/shirleyylwu/skills-introduction-to-github"
-  },
-  {
-    "description": "A repository for my Google Skills lab assignment.",
-    "id": "thomas-vc/google-skills-lab",
-    "language": "\u2014",
-    "name": "thomas-vc/google-skills-lab",
-    "stars": 0,
-    "updated_at": "2026-06-24T20:57:59Z",
-    "url": "https://github.com/thomas-vc/google-skills-lab"
   },
   {
     "description": "\ud83e\udd1d Trade skills effortlessly on SkillSwap, a marketplace where users exchange talents without using money.",
@@ -221,7 +293,7 @@
     "language": "\u2014",
     "name": "LetmarS/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-06-24T20:59:05Z",
+    "updated_at": "2026-06-24T21:01:42Z",
     "url": "https://github.com/LetmarS/skills-introduction-to-github"
   },
   {
@@ -313,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-06-24T20:54:13Z",
     "url": "https://github.com/capsule-brand/skills"
-  },
-  {
-    "description": "Agent Skills for computational materials science -- numerical stability, solvers, meshing,   convergence, and simulation",
-    "id": "HeshamFS/materials-simulation-skills",
-    "language": "Python",
-    "name": "HeshamFS/materials-simulation-skills",
-    "stars": 46,
-    "updated_at": "2026-06-24T20:54:10Z",
-    "url": "https://github.com/HeshamFS/materials-simulation-skills"
   },
   {
     "description": "DBT skills cards ",
@@ -427,7 +490,7 @@
     "id": "emilkowalski/skills",
     "language": "\u2014",
     "name": "emilkowalski/skills",
-    "stars": 3148,
+    "stars": 3149,
     "updated_at": "2026-06-24T20:50:52Z",
     "url": "https://github.com/emilkowalski/skills"
   },
@@ -518,7 +581,7 @@
     "language": "Python",
     "name": "krea-ai/skills",
     "stars": 11,
-    "updated_at": "2026-06-24T20:54:25Z",
+    "updated_at": "2026-06-24T21:02:56Z",
     "url": "https://github.com/krea-ai/skills"
   },
   {
@@ -592,15 +655,6 @@
     "stars": 62,
     "updated_at": "2026-06-24T20:46:02Z",
     "url": "https://github.com/Mann1988/awesome-claude-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 6,
-    "updated_at": "2026-06-24T20:45:31Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "selected useful agent skills",
@@ -844,59 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-24T20:37:27Z",
     "url": "https://github.com/iwamot/skills"
-  },
-  {
-    "description": "Product Engineering Skills & Training Matrix \u2014 interactive tracking tool",
-    "id": "CrystalFountainsInc/pe-skills-matrix",
-    "language": "HTML",
-    "name": "CrystalFountainsInc/pe-skills-matrix",
-    "stars": 0,
-    "updated_at": "2026-06-24T20:37:23Z",
-    "url": "https://github.com/CrystalFountainsInc/pe-skills-matrix"
-  },
-  {
-    "description": "Exercise: Build applications with GitHub Copilot agent mode",
-    "id": "xewertonfilipe/skills-build-applications-w-copilot-agent-mode",
-    "language": "JavaScript",
-    "name": "xewertonfilipe/skills-build-applications-w-copilot-agent-mode",
-    "stars": 0,
-    "updated_at": "2026-06-24T20:37:16Z",
-    "url": "https://github.com/xewertonfilipe/skills-build-applications-w-copilot-agent-mode"
-  },
-  {
-    "description": "",
-    "id": "ejbo/ai-skills-community",
-    "language": "TypeScript",
-    "name": "ejbo/ai-skills-community",
-    "stars": 0,
-    "updated_at": "2026-06-24T20:37:14Z",
-    "url": "https://github.com/ejbo/ai-skills-community"
-  },
-  {
-    "description": "My copy of the skills course on changing commit history",
-    "id": "csalazar-26/skills-change-commit-history",
-    "language": "\u2014",
-    "name": "csalazar-26/skills-change-commit-history",
-    "stars": 0,
-    "updated_at": "2026-06-24T20:37:05Z",
-    "url": "https://github.com/csalazar-26/skills-change-commit-history"
-  },
-  {
-    "description": "agentic coding skills",
-    "id": "cukeric/skills",
-    "language": "Shell",
-    "name": "cukeric/skills",
-    "stars": 0,
-    "updated_at": "2026-06-24T20:36:56Z",
-    "url": "https://github.com/cukeric/skills"
-  },
-  {
-    "description": "",
-    "id": "googlemaps/agent-skills",
-    "language": "\u2014",
-    "name": "googlemaps/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-24T20:36:51Z",
-    "url": "https://github.com/googlemaps/agent-skills"
   }
 ]
