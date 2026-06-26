@@ -1,5 +1,95 @@
 [
   {
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
+    "language": "Python",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-06-26T22:15:18Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "Agent Skills for SiYuan Note -- CLI tool + API skills like obsidian-skills",
+    "id": "RowanGrove/siyuan-skills",
+    "language": "Python",
+    "name": "RowanGrove/siyuan-skills",
+    "stars": 0,
+    "updated_at": "2026-06-26T22:15:13Z",
+    "url": "https://github.com/RowanGrove/siyuan-skills"
+  },
+  {
+    "description": "",
+    "id": "itzevanse-stack/SkillsLibry",
+    "language": "HTML",
+    "name": "itzevanse-stack/SkillsLibry",
+    "stars": 0,
+    "updated_at": "2026-06-26T22:15:09Z",
+    "url": "https://github.com/itzevanse-stack/SkillsLibry"
+  },
+  {
+    "description": "Exercise: Introduction to Git",
+    "id": "alesupriyatno123/skills-introduction-to-git",
+    "language": "Shell",
+    "name": "alesupriyatno123/skills-introduction-to-git",
+    "stars": 0,
+    "updated_at": "2026-06-26T22:15:04Z",
+    "url": "https://github.com/alesupriyatno123/skills-introduction-to-git"
+  },
+  {
+    "description": "",
+    "id": "atik783505/skillswap-client",
+    "language": "JavaScript",
+    "name": "atik783505/skillswap-client",
+    "stars": 0,
+    "updated_at": "2026-06-26T22:14:54Z",
+    "url": "https://github.com/atik783505/skillswap-client"
+  },
+  {
+    "description": "Inspectable agent skills in two files: a Markdown doc + a declarative YON protocol you can validate yourself. No arbitra",
+    "id": "allemaar/open-skills",
+    "language": "JavaScript",
+    "name": "allemaar/open-skills",
+    "stars": 0,
+    "updated_at": "2026-06-26T22:14:43Z",
+    "url": "https://github.com/allemaar/open-skills"
+  },
+  {
+    "description": "",
+    "id": "atik783505/skillswap-server",
+    "language": "JavaScript",
+    "name": "atik783505/skillswap-server",
+    "stars": 0,
+    "updated_at": "2026-06-26T22:14:22Z",
+    "url": "https://github.com/atik783505/skillswap-server"
+  },
+  {
+    "description": "",
+    "id": "JerryLinLinLin/sysinternals-skills",
+    "language": "PowerShell",
+    "name": "JerryLinLinLin/sysinternals-skills",
+    "stars": 0,
+    "updated_at": "2026-06-26T22:13:59Z",
+    "url": "https://github.com/JerryLinLinLin/sysinternals-skills"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 7,
+    "updated_at": "2026-06-26T22:13:40Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "9+ AI agent skills for OpenClaw and ClawHub \u2014 sports-odds, kelly-criterion, portfolio-rebalancer, market-sentiment, stre",
+    "id": "ianalloway/openclaw-skills",
+    "language": "\u2014",
+    "name": "ianalloway/openclaw-skills",
+    "stars": 3,
+    "updated_at": "2026-06-26T22:13:35Z",
+    "url": "https://github.com/ianalloway/openclaw-skills"
+  },
+  {
     "description": "",
     "id": "monksudo/breachplot-skillsafe",
     "language": "Python",
@@ -54,21 +144,12 @@
     "url": "https://github.com/ayshaaktersaima1/skillswap"
   },
   {
-    "description": "Agent Skills for SiYuan Note -- CLI tool + API skills like obsidian-skills",
-    "id": "RowanGrove/siyuan-skills",
-    "language": "Python",
-    "name": "RowanGrove/siyuan-skills",
-    "stars": 0,
-    "updated_at": "2026-06-26T22:11:26Z",
-    "url": "https://github.com/RowanGrove/siyuan-skills"
-  },
-  {
     "description": "This is a repository of skills for interfacing UiPath capabilities to external developers.",
     "id": "UiPath/skills",
     "language": "Python",
     "name": "UiPath/skills",
     "stars": 114,
-    "updated_at": "2026-06-26T22:11:25Z",
+    "updated_at": "2026-06-26T22:14:04Z",
     "url": "https://github.com/UiPath/skills"
   },
   {
@@ -198,15 +279,6 @@
     "url": "https://github.com/Cal-Starfur/claude-skills"
   },
   {
-    "description": "Inspectable agent skills in two files: a Markdown doc + a declarative YON protocol you can validate yourself. No arbitra",
-    "id": "allemaar/open-skills",
-    "language": "JavaScript",
-    "name": "allemaar/open-skills",
-    "stars": 0,
-    "updated_at": "2026-06-26T22:08:13Z",
-    "url": "https://github.com/allemaar/open-skills"
-  },
-  {
     "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
     "id": "Abraham-rivera/skills-scale-institutional-knowledge-using-copilot-spaces",
     "language": "\u2014",
@@ -239,7 +311,7 @@
     "language": "Shell",
     "name": "martinholovsky/SOTA-skills",
     "stars": 0,
-    "updated_at": "2026-06-26T22:07:14Z",
+    "updated_at": "2026-06-26T22:15:12Z",
     "url": "https://github.com/martinholovsky/SOTA-skills"
   },
   {
@@ -313,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-06-26T22:04:49Z",
     "url": "https://github.com/RonanCodes/ronan-skills"
-  },
-  {
-    "description": "",
-    "id": "itzevanse-stack/SkillsLibry",
-    "language": "HTML",
-    "name": "itzevanse-stack/SkillsLibry",
-    "stars": 0,
-    "updated_at": "2026-06-26T22:04:14Z",
-    "url": "https://github.com/itzevanse-stack/SkillsLibry"
   },
   {
     "description": "",
@@ -432,15 +495,6 @@
     "url": "https://github.com/notambourine/hermes-skills"
   },
   {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 7,
-    "updated_at": "2026-06-26T22:00:30Z",
-    "url": "https://github.com/linny006/skills-tracker"
-  },
-  {
     "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
     "id": "linny006/awesome-agent-skills",
     "language": "Python",
@@ -477,21 +531,12 @@
     "url": "https://github.com/ChronoAIProject/ornn-skills"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-06-26T22:00:15Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
     "id": "Sever1775/skills-scale-institutional-knowledge-using-copilot-spaces",
     "language": "\u2014",
     "name": "Sever1775/skills-scale-institutional-knowledge-using-copilot-spaces",
     "stars": 0,
-    "updated_at": "2026-06-26T22:09:55Z",
+    "updated_at": "2026-06-26T22:14:07Z",
     "url": "https://github.com/Sever1775/skills-scale-institutional-knowledge-using-copilot-spaces"
   },
   {
@@ -761,7 +806,7 @@
     "language": "JavaScript",
     "name": "bruphillips-jha/skills-getting-started-with-github-copilot",
     "stars": 0,
-    "updated_at": "2026-06-26T21:52:33Z",
+    "updated_at": "2026-06-26T22:15:11Z",
     "url": "https://github.com/bruphillips-jha/skills-getting-started-with-github-copilot"
   },
   {
@@ -853,50 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-26T21:49:31Z",
     "url": "https://github.com/rwnq8/qnfo-skills"
-  },
-  {
-    "description": "Security skills for agentic SaaS apps",
-    "id": "Adversis/skills",
-    "language": "\u2014",
-    "name": "Adversis/skills",
-    "stars": 0,
-    "updated_at": "2026-06-26T21:48:32Z",
-    "url": "https://github.com/Adversis/skills"
-  },
-  {
-    "description": "Skills for agents (WIP)",
-    "id": "fulcradynamics/agent-skills",
-    "language": "HTML",
-    "name": "fulcradynamics/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-26T21:48:30Z",
-    "url": "https://github.com/fulcradynamics/agent-skills"
-  },
-  {
-    "description": "",
-    "id": "allada-homelab/public-skills",
-    "language": "Python",
-    "name": "allada-homelab/public-skills",
-    "stars": 0,
-    "updated_at": "2026-06-26T21:48:13Z",
-    "url": "https://github.com/allada-homelab/public-skills"
-  },
-  {
-    "description": "Official AMD catalog of AI agent skills. Empower your AI agents with AMD's optimized SW stack.",
-    "id": "amd/skills",
-    "language": "Python",
-    "name": "amd/skills",
-    "stars": 4,
-    "updated_at": "2026-06-26T21:48:05Z",
-    "url": "https://github.com/amd/skills"
-  },
-  {
-    "description": "\u65e5\u5e38\u5de5\u4f5c\u7684skills",
-    "id": "joshzhong66/sofunny-agent-skills",
-    "language": "JavaScript",
-    "name": "joshzhong66/sofunny-agent-skills",
-    "stars": 0,
-    "updated_at": "2026-06-26T21:47:37Z",
-    "url": "https://github.com/joshzhong66/sofunny-agent-skills"
   }
 ]
