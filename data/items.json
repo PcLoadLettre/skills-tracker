@@ -2,11 +2,47 @@
   {
     "description": "",
     "id": "nludd25/awesome-codex-skills",
-    "language": "\u2014",
+    "language": "Python",
     "name": "nludd25/awesome-codex-skills",
     "stars": 0,
-    "updated_at": "2026-06-29T23:30:16Z",
+    "updated_at": "2026-06-29T23:30:28Z",
     "url": "https://github.com/nludd25/awesome-codex-skills"
+  },
+  {
+    "description": "Collection of Agent Skills for Claude Code, Cursor, Codex, Windsurf, and any agent that speaks the open   Skills spec. S",
+    "id": "llodev/skills",
+    "language": "TypeScript",
+    "name": "llodev/skills",
+    "stars": 0,
+    "updated_at": "2026-06-29T23:30:27Z",
+    "url": "https://github.com/llodev/skills"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "mansukhk-svg/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "mansukhk-svg/skills-introduction-to-github",
+    "stars": 0,
+    "updated_at": "2026-06-29T23:30:27Z",
+    "url": "https://github.com/mansukhk-svg/skills-introduction-to-github"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 7,
+    "updated_at": "2026-06-29T23:30:26Z",
+    "url": "https://github.com/linny006/skills-tracker"
+  },
+  {
+    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
+    "id": "linny006/awesome-agent-skills",
+    "language": "Python",
+    "name": "linny006/awesome-agent-skills",
+    "stars": 10,
+    "updated_at": "2026-06-29T23:30:26Z",
+    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
@@ -88,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T23:29:23Z",
     "url": "https://github.com/jordanmack/ai-skills"
-  },
-  {
-    "description": "Curated, auto-updated awesome-list of vetted AI agent skills with quality ratings for Claude, GPT, a",
-    "id": "linny006/awesome-agent-skills",
-    "language": "Python",
-    "name": "linny006/awesome-agent-skills",
-    "stars": 10,
-    "updated_at": "2026-06-29T23:28:53Z",
-    "url": "https://github.com/linny006/awesome-agent-skills"
   },
   {
     "description": "iOS Agent Skills 2026: Test 11 Tasks, 260+ Scenarios, 850+ Assertions on 3 Models",
@@ -349,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-06-29T23:17:40Z",
     "url": "https://github.com/karanmrn/claude-skills"
-  },
-  {
-    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
-    "id": "linny006/skills-tracker",
-    "language": "Python",
-    "name": "linny006/skills-tracker",
-    "stars": 7,
-    "updated_at": "2026-06-29T23:15:27Z",
-    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "Skills for creating 1v1 interactive courses with AI-Shifu",
@@ -880,23 +898,5 @@
     "stars": 0,
     "updated_at": "2026-06-29T22:49:04Z",
     "url": "https://github.com/shiyonghu/llm-wiki-skills"
-  },
-  {
-    "description": "Agent skills for Claude Code and other AI agents",
-    "id": "ekinertac/skills",
-    "language": "HTML",
-    "name": "ekinertac/skills",
-    "stars": 0,
-    "updated_at": "2026-06-29T22:48:24Z",
-    "url": "https://github.com/ekinertac/skills"
-  },
-  {
-    "description": "",
-    "id": "OliverVea/ovea-skills",
-    "language": "\u2014",
-    "name": "OliverVea/ovea-skills",
-    "stars": 0,
-    "updated_at": "2026-06-29T22:48:02Z",
-    "url": "https://github.com/OliverVea/ovea-skills"
   }
 ]
