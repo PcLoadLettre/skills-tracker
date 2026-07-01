@@ -5,17 +5,89 @@
     "language": "\u2014",
     "name": "tomevault-io/skills-registry",
     "stars": 0,
-    "updated_at": "2026-07-01T13:58:59Z",
+    "updated_at": "2026-07-01T14:00:25Z",
     "url": "https://github.com/tomevault-io/skills-registry"
   },
   {
-    "description": "",
-    "id": "bridgeshi85/miles-skills",
+    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
+    "id": "linny006/trending-claude-skills",
     "language": "Python",
-    "name": "bridgeshi85/miles-skills",
+    "name": "linny006/trending-claude-skills",
+    "stars": 8,
+    "updated_at": "2026-07-01T14:00:14Z",
+    "url": "https://github.com/linny006/trending-claude-skills"
+  },
+  {
+    "description": "",
+    "id": "machenjie/rd-skills",
+    "language": "Python",
+    "name": "machenjie/rd-skills",
+    "stars": 3,
+    "updated_at": "2026-07-01T14:00:03Z",
+    "url": "https://github.com/machenjie/rd-skills"
+  },
+  {
+    "description": "Exercise: Introduction to GitHub",
+    "id": "OrtegaAeron/skills-introduction-to-github",
+    "language": "\u2014",
+    "name": "OrtegaAeron/skills-introduction-to-github",
     "stars": 0,
-    "updated_at": "2026-07-01T13:58:42Z",
-    "url": "https://github.com/bridgeshi85/miles-skills"
+    "updated_at": "2026-07-01T13:59:52Z",
+    "url": "https://github.com/OrtegaAeron/skills-introduction-to-github"
+  },
+  {
+    "description": "Threadlight pilot pipeline \u2014 8 Copilot skills that take a customer engagement from brief to deployed Foundry agent in on",
+    "id": "aiappsgbb/threadlight-skills",
+    "language": "Python",
+    "name": "aiappsgbb/threadlight-skills",
+    "stars": 0,
+    "updated_at": "2026-07-01T13:59:42Z",
+    "url": "https://github.com/aiappsgbb/threadlight-skills"
+  },
+  {
+    "description": "",
+    "id": "yuancaoyaoHW/China-rent-skills",
+    "language": "HTML",
+    "name": "yuancaoyaoHW/China-rent-skills",
+    "stars": 0,
+    "updated_at": "2026-07-01T13:59:18Z",
+    "url": "https://github.com/yuancaoyaoHW/China-rent-skills"
+  },
+  {
+    "description": "",
+    "id": "wrk33857-collab/soft-skills",
+    "language": "Python",
+    "name": "wrk33857-collab/soft-skills",
+    "stars": 0,
+    "updated_at": "2026-07-01T13:59:12Z",
+    "url": "https://github.com/wrk33857-collab/soft-skills"
+  },
+  {
+    "description": "",
+    "id": "KJ0576/skills-connect-the-dots",
+    "language": "\u2014",
+    "name": "KJ0576/skills-connect-the-dots",
+    "stars": 0,
+    "updated_at": "2026-07-01T13:59:11Z",
+    "url": "https://github.com/KJ0576/skills-connect-the-dots"
+  },
+  {
+    "description": "",
+    "id": "tkgathr2/skills-catalog",
+    "language": "HTML",
+    "name": "tkgathr2/skills-catalog",
+    "stars": 0,
+    "updated_at": "2026-07-01T13:59:09Z",
+    "url": "https://github.com/tkgathr2/skills-catalog"
+  },
+  {
+    "description": "Real-time tracking of every new GitHub 'skills' repo to capture the AI agent skill ecosystem trend",
+    "id": "linny006/skills-tracker",
+    "language": "Python",
+    "name": "linny006/skills-tracker",
+    "stars": 7,
+    "updated_at": "2026-07-01T13:59:03Z",
+    "url": "https://github.com/linny006/skills-tracker"
   },
   {
     "description": "My clone repository",
@@ -144,15 +216,6 @@
     "url": "https://github.com/arnoldsimha/skillspell"
   },
   {
-    "description": "Auto-updated leaderboard of trending claude-skills and AI agent repos, refreshed every 15 minutes",
-    "id": "linny006/trending-claude-skills",
-    "language": "Python",
-    "name": "linny006/trending-claude-skills",
-    "stars": 8,
-    "updated_at": "2026-07-01T13:56:46Z",
-    "url": "https://github.com/linny006/trending-claude-skills"
-  },
-  {
     "description": "Exercise: Scale Institutional Knowledge Using Copilot Spaces",
     "id": "pineapple-wang/skills-scale-institutional-knowledge-using-copilot-spaces",
     "language": "\u2014",
@@ -187,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-07-01T13:56:38Z",
     "url": "https://github.com/oyi77/1ai-skills"
-  },
-  {
-    "description": "",
-    "id": "wrk33857-collab/soft-skills",
-    "language": "Python",
-    "name": "wrk33857-collab/soft-skills",
-    "stars": 0,
-    "updated_at": "2026-07-01T13:56:32Z",
-    "url": "https://github.com/wrk33857-collab/soft-skills"
   },
   {
     "description": "Skills to transform AI Agents into GitOps Engineers",
@@ -383,7 +437,7 @@
     "language": "HTML",
     "name": "clickzetta/clickzetta-skills",
     "stars": 7,
-    "updated_at": "2026-07-01T13:55:52Z",
+    "updated_at": "2026-07-01T13:59:27Z",
     "url": "https://github.com/clickzetta/clickzetta-skills"
   },
   {
@@ -513,15 +567,6 @@
     "url": "https://github.com/Amitro1234/keshet-claude-skills"
   },
   {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "OrtegaAeron/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "OrtegaAeron/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-07-01T13:52:30Z",
-    "url": "https://github.com/OrtegaAeron/skills-introduction-to-github"
-  },
-  {
     "description": "Exercise: Get started using GitHub Copilot",
     "id": "shhilja/skills-getting-started-with-github-copilot",
     "language": "JavaScript",
@@ -646,15 +691,6 @@
     "stars": 0,
     "updated_at": "2026-07-01T13:56:21Z",
     "url": "https://github.com/ImNotKier/skills-introduction-to-github"
-  },
-  {
-    "description": "",
-    "id": "yuancaoyaoHW/China-rent-skills",
-    "language": "HTML",
-    "name": "yuancaoyaoHW/China-rent-skills",
-    "stars": 0,
-    "updated_at": "2026-07-01T13:49:41Z",
-    "url": "https://github.com/yuancaoyaoHW/China-rent-skills"
   },
   {
     "description": "AI agent skills published by NVIDIA",
@@ -862,41 +898,5 @@
     "stars": 1,
     "updated_at": "2026-07-01T13:47:05Z",
     "url": "https://github.com/gvieira18/skills"
-  },
-  {
-    "description": "",
-    "id": "Ashraful-akash467/skillsphere-online_learning_platform",
-    "language": "JavaScript",
-    "name": "Ashraful-akash467/skillsphere-online_learning_platform",
-    "stars": 0,
-    "updated_at": "2026-07-01T13:47:01Z",
-    "url": "https://github.com/Ashraful-akash467/skillsphere-online_learning_platform"
-  },
-  {
-    "description": "\ud83e\udd1d Trade skills effortlessly on SkillSwap, a marketplace where users exchange talents without using money.",
-    "id": "ZuchettoG/SkillSwap",
-    "language": "JavaScript",
-    "name": "ZuchettoG/SkillSwap",
-    "stars": 0,
-    "updated_at": "2026-07-01T13:46:58Z",
-    "url": "https://github.com/ZuchettoG/SkillSwap"
-  },
-  {
-    "description": "Exercise: Introduction to GitHub",
-    "id": "kirankumarperni20-bit/skills-introduction-to-github",
-    "language": "\u2014",
-    "name": "kirankumarperni20-bit/skills-introduction-to-github",
-    "stars": 0,
-    "updated_at": "2026-07-01T13:46:46Z",
-    "url": "https://github.com/kirankumarperni20-bit/skills-introduction-to-github"
-  },
-  {
-    "description": "Skills for computational chemistry",
-    "id": "yangxl-yuanpei/nqe-workflow-skills",
-    "language": "Python",
-    "name": "yangxl-yuanpei/nqe-workflow-skills",
-    "stars": 0,
-    "updated_at": "2026-07-01T13:46:42Z",
-    "url": "https://github.com/yangxl-yuanpei/nqe-workflow-skills"
   }
 ]
